@@ -15,18 +15,6 @@ Comment3 ""
 Comment4 "Diseñador: Agustín Rey"
 $EndDescr
 $Comp
-L Silabs:SI8380P-IU U9
-U 1 1 5DFC34A6
-P 7300 3450
-F 0 "U9" H 7300 4365 50  0000 C CNN
-F 1 "SI8380P-IU" H 7300 4274 50  0000 C CNN
-F 2 "Package_SO:QSOP-20_3.9x8.7mm_P0.635mm" H 7250 3350 50  0001 C CNN
-F 3 "Si838x-DataSheet-1398003.pdf" H 7250 3350 50  0001 C CNN
-F 4 " 	336-3618-5-ND " H 7300 3450 50  0001 C CNN "Digikey#"
-	1    7300 3450
-	1    0    0    -1  
-$EndComp
-$Comp
 L Poncho-PLC7-rescue:R-PonchoPLC-rescue R?
 U 1 1 5DFDD5B5
 P 5550 1800
@@ -457,10 +445,10 @@ L Poncho-PLC7-rescue:TB_1X2-PonchoPLC-rescue J?
 U 1 1 5E049340
 P 3850 3600
 AR Path="/5D85477B/5E049340" Ref="J?"  Part="1" 
-AR Path="/5D8546B3/5E049340" Ref="J11"  Part="1" 
-F 0 "J11" H 3650 3600 60  0000 C CNN
+AR Path="/5D8546B3/5E049340" Ref="JE3"  Part="1" 
+F 0 "JE3" H 3650 3600 60  0000 C CNN
 F 1 "TB_1X2" H 3900 3300 60  0001 C CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 3800 3650 60  0001 C CNN
+F 2 "Poncho-PLC:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 3800 3650 60  0001 C CNN
 F 3 "1868733.pdf" H 3800 3650 60  0001 C CNN
 F 4 "" H 3850 3600 60  0001 C CNN "Title"
 	1    3850 3600
@@ -469,25 +457,25 @@ $EndComp
 $Comp
 L Poncho-PLC7-rescue:TB_1X3-PonchoPLC-rescue J?
 U 1 1 5E049346
-P 3850 4000
+P 3850 4200
 AR Path="/5D85477B/5E049346" Ref="J?"  Part="1" 
-AR Path="/5D8546B3/5E049346" Ref="J12"  Part="1" 
-F 0 "J12" H 3720 3953 60  0000 R CNN
-F 1 "TB_1X3-PonchoPLC-rescue" H 3720 3847 60  0001 R CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal" H 3800 4050 60  0001 C CNN
-F 3 "1868733.pdf" H 3800 4050 60  0001 C CNN
-	1    3850 4000
-	1    0    0    -1  
+AR Path="/5D8546B3/5E049346" Ref="JE4"  Part="1" 
+F 0 "JE4" H 3720 4153 60  0000 R CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 3720 4047 60  0001 R CNN
+F 2 "Poncho-PLC:TerminalBlock_4Ucon_1x03_P3.50mm_Horizontal" H 3800 4250 60  0001 C CNN
+F 3 "1868733.pdf" H 3800 4250 60  0001 C CNN
+	1    3850 4200
+	1    0    0    1   
 $EndComp
 $Comp
 L Poncho-PLC7-rescue:TB_1X2-PonchoPLC-rescue J?
 U 1 1 5E057114
 P 3850 3200
 AR Path="/5D85477B/5E057114" Ref="J?"  Part="1" 
-AR Path="/5D8546B3/5E057114" Ref="J9"  Part="1" 
-F 0 "J9" H 3650 3200 60  0000 C CNN
+AR Path="/5D8546B3/5E057114" Ref="JE2"  Part="1" 
+F 0 "JE2" H 3650 3200 60  0000 C CNN
 F 1 "TB_1X2" H 3900 2900 60  0001 C CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 3800 3250 60  0001 C CNN
+F 2 "Poncho-PLC:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 3800 3250 60  0001 C CNN
 F 3 "1868733.pdf" H 3800 3250 60  0001 C CNN
 F 4 "" H 3850 3200 60  0001 C CNN "Title"
 	1    3850 3200
@@ -498,10 +486,10 @@ L Poncho-PLC7-rescue:TB_1X2-PonchoPLC-rescue J?
 U 1 1 5E05980D
 P 3850 2800
 AR Path="/5D85477B/5E05980D" Ref="J?"  Part="1" 
-AR Path="/5D8546B3/5E05980D" Ref="J8"  Part="1" 
-F 0 "J8" H 3650 2800 60  0000 C CNN
+AR Path="/5D8546B3/5E05980D" Ref="JE1"  Part="1" 
+F 0 "JE1" H 3650 2800 60  0000 C CNN
 F 1 "TB_1X2" H 3900 2500 60  0001 C CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 3800 2850 60  0001 C CNN
+F 2 "Poncho-PLC:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal" H 3800 2850 60  0001 C CNN
 F 3 "1868733.pdf" H 3800 2850 60  0001 C CNN
 F 4 "" H 3850 2800 60  0001 C CNN "Title"
 	1    3850 2800
@@ -642,4 +630,15 @@ Wire Wire Line
 Connection ~ 5350 5600
 Wire Wire Line
 	5350 5600 5350 5650
+$Comp
+L Silabs:SI8380P-IU U9
+U 1 1 5D9F834D
+P 7300 3450
+F 0 "U9" H 7300 4365 50  0000 C CNN
+F 1 "SI8380P-IU" H 7300 4274 50  0000 C CNN
+F 2 "Package_SO:QSOP-20_3.9x8.7mm_P0.635mm" H 7250 3350 50  0001 C CNN
+F 3 "Si838x-DataSheet-1398003.pdf" H 7250 3350 50  0001 C CNN
+	1    7300 3450
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
