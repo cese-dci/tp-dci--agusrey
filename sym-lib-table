@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name Poncho-PLC7-rescue)(type Legacy)(uri "${KIPRJMOD}/Poncho PLC7-rescue.lib")(options "")(descr ""))
-  (lib (name CIAA_ACC)(type Legacy)(uri ${KIPRJMOD}/CIAA_ACC.lib)(options "")(descr ""))
-  (lib (name Silabs)(type Legacy)(uri ${KIPRJMOD}/Silabs.lib)(options "")(descr ""))
-)
