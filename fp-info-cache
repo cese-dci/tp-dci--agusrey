@@ -1,4 +1,4 @@
-16344992627091476
+16371110351428573
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -63063,13 +63063,6 @@ Separador M3 5mm de alto
 1
 1
 Poncho-PLC
-TRIMER_V
-trimmer, Piher PT6-xV
-trimmer
-0
-3
-3
-Poncho-PLC
 TX24-40R-LT-H1E
 
 
@@ -63104,6 +63097,90 @@ CONN
 0
 84
 81
+Ponchos
+Conn_Poncho_Chico
+
+CONN Poncho
+0
+80
+80
+Ponchos
+Conn_Poncho_Completo
+
+CONN Poncho
+0
+84
+81
+Ponchos
+Conn_Poncho_Derecha
+
+CONN Poncho
+0
+40
+40
+Ponchos
+Conn_Poncho_Izquierdo
+
+CONN Poncho
+0
+40
+40
+Ponchos
+Conn_Poncho_Mediano
+
+CONN Poncho
+0
+84
+81
+Ponchos
+Conn_Poncho_SinBorde
+
+CONN Poncho
+0
+80
+80
+Ponchos
+Logo_EDU-CIAA
+
+
+0
+0
+0
+Ponchos
+Logo_OSHWA
+
+
+0
+0
+0
+Ponchos
+Logo_Poncho
+
+
+0
+0
+0
+Ponchos
+Plantilla_EDU-CIAA
+
+plantilla poncho EDU CIAA
+0
+0
+0
+Ponchos
+Plantilla_Pico
+
+
+0
+0
+0
+Ponchos
+Symbol_KiCAD-Logo_CopperAndSilkScreenTop
+Symbol, KiCAD-Logo, Silk & Copper Top,
+Symbol, KiCAD-Logo, Silk & Copper Top,
+0
+0
+0
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
