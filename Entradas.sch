@@ -697,4 +697,20 @@ F 4 "" H 4050 2150 60  0001 C CNN "Title"
 	1    4050 2150
 	1    0    0    1   
 $EndComp
+Text Label 6300 1250 0    50   ~ 0
+A1
+Text Label 6300 1700 0    50   ~ 0
+A2
+Text Label 6300 2150 0    50   ~ 0
+A3
+Text Label 6300 2600 0    50   ~ 0
+A4
+Text Label 6300 3050 0    50   ~ 0
+A5
+Text Label 6300 3500 0    50   ~ 0
+A6
+Text Label 6300 3950 0    50   ~ 0
+A7
+Text Label 6300 4400 0    50   ~ 0
+A8
 $EndSCHEMATC

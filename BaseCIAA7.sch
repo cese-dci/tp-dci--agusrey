@@ -272,11 +272,11 @@ Wire Wire Line
 	8950 5300 8950 5500
 Connection ~ 8950 5500
 Text HLabel 5400 4800 0    50   Input ~ 0
-IN0
+IN5
 Text HLabel 5400 4900 0    50   Input ~ 0
-IN1
+IN3
 Text HLabel 5400 5000 0    50   Input ~ 0
-IN2
+IN1
 Text HLabel 10900 4600 2    50   Input ~ 0
 IN7
 Wire Wire Line
@@ -303,21 +303,21 @@ Wire Wire Line
 	5900 4500 5400 4500
 Wire Wire Line
 	5900 4400 5400 4400
-Text HLabel 5400 4400 0    50   Output ~ 0
+Text HLabel 6900 4700 2    50   Output ~ 0
 OUT0
-Text HLabel 5400 4500 0    50   Output ~ 0
+Text HLabel 6900 4600 2    50   Output ~ 0
 OUT1
 Text HLabel 5400 4600 0    50   Output ~ 0
 OUT2
 Text HLabel 5400 4700 0    50   Output ~ 0
 OUT3
-Text HLabel 6900 4400 2    50   Output ~ 0
+Text HLabel 5400 4400 0    50   Output ~ 0
 OUT4
-Text HLabel 6900 4500 2    50   Output ~ 0
+Text HLabel 6900 4400 2    50   Output ~ 0
 OUT5
-Text HLabel 6900 4600 2    50   Output ~ 0
+Text HLabel 5400 4500 0    50   Output ~ 0
 OUT6
-Text HLabel 6900 4700 2    50   Output ~ 0
+Text HLabel 6900 4500 2    50   Output ~ 0
 OUT7
 Wire Wire Line
 	7550 2900 7550 2800
@@ -709,24 +709,13 @@ $EndComp
 $Comp
 L power:+3.3V #PWR0150
 U 1 1 5DA49099
-P 1000 3450
-F 0 "#PWR0150" H 1000 3300 50  0001 C CNN
-F 1 "+3.3V" H 1015 3623 50  0000 C CNN
-F 2 "" H 1000 3450 50  0001 C CNN
-F 3 "" H 1000 3450 50  0001 C CNN
-	1    1000 3450
+P 1000 3700
+F 0 "#PWR0150" H 1000 3550 50  0001 C CNN
+F 1 "+3.3V" H 1015 3873 50  0000 C CNN
+F 2 "" H 1000 3700 50  0001 C CNN
+F 3 "" H 1000 3700 50  0001 C CNN
+	1    1000 3700
 	1    0    0    -1  
-$EndComp
-$Comp
-L power:+5V #PWR0151
-U 1 1 5DA6E049
-P 1400 3150
-F 0 "#PWR0151" H 1400 3000 50  0001 C CNN
-F 1 "+5V" H 1415 3323 50  0000 C CNN
-F 2 "" H 1400 3150 50  0001 C CNN
-F 3 "" H 1400 3150 50  0001 C CNN
-	1    1400 3150
-	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	10400 4700 10800 4700
@@ -789,11 +778,9 @@ IN6
 Wire Wire Line
 	6400 4800 6900 4800
 Text HLabel 6900 4800 2    50   Input ~ 0
-IN3
-Text HLabel 6900 4900 2    50   Input ~ 0
 IN4
-Text HLabel 6900 5000 2    50   Input ~ 0
-IN5
+Text HLabel 6900 4900 2    50   Input ~ 0
+IN2
 Wire Wire Line
 	6400 5000 6900 5000
 Wire Wire Line
@@ -841,56 +828,37 @@ Wire Wire Line
 $Comp
 L power:GND #PWR01
 U 1 1 5DB34C57
-P 1250 3800
-F 0 "#PWR01" H 1250 3550 50  0001 C CNN
-F 1 "GND" H 1255 3627 50  0000 C CNN
-F 2 "" H 1250 3800 50  0001 C CNN
-F 3 "" H 1250 3800 50  0001 C CNN
-	1    1250 3800
+P 1250 4000
+F 0 "#PWR01" H 1250 3750 50  0001 C CNN
+F 1 "GND" H 1255 3827 50  0000 C CNN
+F 2 "" H 1250 4000 50  0001 C CNN
+F 3 "" H 1250 4000 50  0001 C CNN
+	1    1250 4000
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1250 3700 1250 3800
+	1250 3700 1250 4000
 Wire Wire Line
 	2300 3700 1250 3700
-Wire Wire Line
-	2300 3800 1400 3800
-Wire Wire Line
-	1400 3800 1400 3150
 $Comp
 L power:+5V #PWR03
 U 1 1 5DB5877D
-P 3900 4150
-F 0 "#PWR03" H 3900 4000 50  0001 C CNN
-F 1 "+5V" H 3915 4323 50  0000 C CNN
-F 2 "" H 3900 4150 50  0001 C CNN
-F 3 "" H 3900 4150 50  0001 C CNN
-	1    3900 4150
+P 3900 3250
+F 0 "#PWR03" H 3900 3100 50  0001 C CNN
+F 1 "+5V" H 3915 3423 50  0000 C CNN
+F 2 "" H 3900 3250 50  0001 C CNN
+F 3 "" H 3900 3250 50  0001 C CNN
+	1    3900 3250
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	2800 5500 3900 5500
 Wire Wire Line
-	3900 5500 3900 4150
-$Comp
-L power:+3.3V #PWR02
-U 1 1 5DB6E070
-P 3750 4450
-F 0 "#PWR02" H 3750 4300 50  0001 C CNN
-F 1 "+3.3V" H 3765 4623 50  0000 C CNN
-F 2 "" H 3750 4450 50  0001 C CNN
-F 3 "" H 3750 4450 50  0001 C CNN
-	1    3750 4450
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	2800 4600 3750 4600
-Wire Wire Line
-	3750 4600 3750 4450
+	3900 5500 3900 4600
 Wire Wire Line
 	2300 4700 1000 4700
 Wire Wire Line
-	1000 4700 1000 3450
+	1000 4700 1000 3800
 $Comp
 L Mechanical:MountingHole_Pad H7
 U 1 1 5DAF7EBE
@@ -1004,4 +972,16 @@ F 3 "" H 6100 7100 60  0000 C CNN
 	1    6100 7100
 	1    0    0    -1  
 $EndComp
+Connection ~ 1000 3800
+Wire Wire Line
+	1000 3800 2300 3800
+Wire Wire Line
+	2800 4600 3900 4600
+Connection ~ 3900 4600
+Wire Wire Line
+	3900 4600 3900 3250
+Wire Wire Line
+	1000 3700 1000 3800
+Text HLabel 6900 5000 2    50   Input ~ 0
+IN0
 $EndSCHEMATC
