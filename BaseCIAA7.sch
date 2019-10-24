@@ -303,13 +303,13 @@ Wire Wire Line
 	5900 4500 5400 4500
 Wire Wire Line
 	5900 4400 5400 4400
-Text HLabel 6900 4700 2    50   Output ~ 0
+Text HLabel 5400 4600 0    50   Output ~ 0
 OUT0
 Text HLabel 6900 4600 2    50   Output ~ 0
 OUT1
-Text HLabel 5400 4600 0    50   Output ~ 0
-OUT2
 Text HLabel 5400 4700 0    50   Output ~ 0
+OUT2
+Text HLabel 6900 4700 2    50   Output ~ 0
 OUT3
 Text HLabel 5400 4400 0    50   Output ~ 0
 OUT4
@@ -629,7 +629,7 @@ F 5 "	670-1386-ND" H 2500 4600 50  0001 C CNN "Digikey#"
 	1    2500 4600
 	1    0    0    -1  
 $EndComp
-Text Label 2150 5400 2    50   ~ 0
+Text Label 2200 4500 2    50   ~ 0
 PD5
 Text Label 3050 3800 2    50   ~ 0
 PB4
@@ -641,7 +641,7 @@ Text Label 2900 3900 0    50   ~ 0
 PD6
 Text Label 2900 4800 0    50   ~ 0
 PB3
-Text Label 2050 4500 0    50   ~ 0
+Text Label 2000 5400 0    50   ~ 0
 PB5
 Text Label 2000 5500 0    50   ~ 0
 PB7
@@ -797,9 +797,9 @@ Wire Wire Line
 	10800 5200 10400 5200
 Wire Wire Line
 	10400 5300 10800 5300
-Text Label 3100 4900 2    50   ~ 0
-PA15
 Text Label 2200 4400 2    50   ~ 0
+PA15
+Text Label 3050 4900 2    50   ~ 0
 PD3
 Wire Wire Line
 	1650 4400 2300 4400
