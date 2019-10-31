@@ -26,8 +26,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 5680 1150 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 1150 30  0001 C CNN
 F 4 "" H 5750 1150 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 1150 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-622ELFTR-ND" H 5750 1150 50  0001 C CNN "Digikey#"
-F 7 "CR0805-JW-622ELFTR-ND" H 5750 1150 50  0001 C CNN "Manf"
+F 6 "CR0805-JW-622ELFTR-ND" H 5750 1150 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 1150 50  0001 C CNN "Manf"
 	1    5750 1150
 	0    1    1    0   
 $EndComp
@@ -44,6 +44,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 1350 30
 F 4 "" H 5750 1350 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 1350 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 1350 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 1350 50  0001 C CNN "Manf"
 	1    5750 1350
 	0    1    1    0   
 $EndComp
@@ -67,8 +68,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 5680 1600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 1600 30  0001 C CNN
 F 4 "" H 5750 1600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 1600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-622ELFTR-ND" H 5750 1600 50  0001 C CNN "Digikey#"
-F 7 "CR0805-JW-622ELFTR-ND" H 5750 1600 50  0001 C CNN "Manf"
+F 6 "CR0805-JW-622ELFTR-ND" H 5750 1600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 1600 50  0001 C CNN "Manf"
 	1    5750 1600
 	0    1    1    0   
 $EndComp
@@ -85,6 +86,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 1800 30
 F 4 "" H 5750 1800 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 1800 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 1800 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 1800 50  0001 C CNN "Manf"
 	1    5750 1800
 	0    1    1    0   
 $EndComp
@@ -108,8 +110,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 5680 2050 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 2050 30  0001 C CNN
 F 4 "" H 5750 2050 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2050 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-622ELFTR-ND" H 5750 2050 50  0001 C CNN "Digikey#"
-F 7 "CR0805-JW-622ELFTR-ND" H 5750 2050 50  0001 C CNN "Manf"
+F 6 "CR0805-JW-622ELFTR-ND" H 5750 2050 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 2050 50  0001 C CNN "Manf"
 	1    5750 2050
 	0    1    1    0   
 $EndComp
@@ -126,6 +128,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 2250 30
 F 4 "" H 5750 2250 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2250 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 2250 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 2250 50  0001 C CNN "Manf"
 	1    5750 2250
 	0    1    1    0   
 $EndComp
@@ -149,8 +152,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 5680 2500 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 2500 30  0001 C CNN
 F 4 "" H 5750 2500 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2500 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-622ELFTR-ND" H 5750 2500 50  0001 C CNN "Digikey#"
-F 7 "CR0805-JW-622ELFTR-ND" H 5750 2500 50  0001 C CNN "Manf"
+F 6 "CR0805-JW-622ELFTR-ND" H 5750 2500 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 2500 50  0001 C CNN "Manf"
 	1    5750 2500
 	0    1    1    0   
 $EndComp
@@ -167,6 +170,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 2700 30
 F 4 "" H 5750 2700 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2700 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 2700 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 2700 50  0001 C CNN "Manf"
 	1    5750 2700
 	0    1    1    0   
 $EndComp
@@ -190,8 +194,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 5680 2950 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 2950 30  0001 C CNN
 F 4 "" H 5750 2950 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2950 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-622ELFTR-ND" H 5750 2950 50  0001 C CNN "Digikey#"
-F 7 "CR0805-JW-622ELFTR-ND" H 5750 2950 50  0001 C CNN "Manf"
+F 6 "CR0805-JW-622ELFTR-ND" H 5750 2950 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 2950 50  0001 C CNN "Manf"
 	1    5750 2950
 	0    1    1    0   
 $EndComp
@@ -208,6 +212,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 3150 30
 F 4 "" H 5750 3150 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 3150 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 3150 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 3150 50  0001 C CNN "Manf"
 	1    5750 3150
 	0    1    1    0   
 $EndComp
@@ -231,8 +236,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 5680 3400 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 3400 30  0001 C CNN
 F 4 "" H 5750 3400 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 3400 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-622ELFTR-ND" H 5750 3400 50  0001 C CNN "Digikey#"
-F 7 "CR0805-JW-622ELFTR-ND" H 5750 3400 50  0001 C CNN "Manf"
+F 6 "CR0805-JW-622ELFTR-ND" H 5750 3400 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 3400 50  0001 C CNN "Manf"
 	1    5750 3400
 	0    1    1    0   
 $EndComp
@@ -249,6 +254,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 3600 30
 F 4 "" H 5750 3600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 3600 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 3600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 3600 50  0001 C CNN "Manf"
 	1    5750 3600
 	0    1    1    0   
 $EndComp
@@ -272,8 +278,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 5680 3850 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 3850 30  0001 C CNN
 F 4 "" H 5750 3850 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 3850 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-622ELFTR-ND" H 5750 3850 50  0001 C CNN "Digikey#"
-F 7 "CR0805-JW-622ELFTR-ND" H 5750 3850 50  0001 C CNN "Manf"
+F 6 "CR0805-JW-622ELFTR-ND" H 5750 3850 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 3850 50  0001 C CNN "Manf"
 	1    5750 3850
 	0    1    1    0   
 $EndComp
@@ -290,6 +296,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 4050 30
 F 4 "" H 5750 4050 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 4050 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 4050 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 4050 50  0001 C CNN "Manf"
 	1    5750 4050
 	0    1    1    0   
 $EndComp
@@ -313,8 +320,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 5680 4300 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 4300 30  0001 C CNN
 F 4 "" H 5750 4300 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 4300 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-622ELFTR-ND" H 5750 4300 50  0001 C CNN "Digikey#"
-F 7 "CR0805-JW-622ELFTR-ND" H 5750 4300 50  0001 C CNN "Manf"
+F 6 "CR0805-JW-622ELFTR-ND" H 5750 4300 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 4300 50  0001 C CNN "Manf"
 	1    5750 4300
 	0    1    1    0   
 $EndComp
@@ -331,6 +338,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 5750 4500 30
 F 4 "" H 5750 4500 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 4500 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 4500 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 5750 4500 50  0001 C CNN "Manf"
 	1    5750 4500
 	0    1    1    0   
 $EndComp
@@ -458,6 +466,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 9050 2800 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 9050 2800 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 9050 2800 50  0001 C CNN "Desc"
+F 7 "Samsung" H 9050 2800 50  0001 C CNN "Manf"
 	1    9050 2800
 	0    -1   -1   0   
 $EndComp
@@ -617,10 +626,13 @@ P 4050 2950
 AR Path="/5D85477B/5DB19AB2" Ref="J?"  Part="1" 
 AR Path="/5D8546B3/5DB19AB2" Ref="JE3"  Part="1" 
 F 0 "JE3" H 3850 2950 60  0000 C CNN
-F 1 "TB_1X2" H 4100 2650 60  0001 C CNN
+F 1 "TB_1X2-PonchoPLC-rescue" H 4100 2650 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 4000 3000 60  0001 C CNN
-F 3 "1868733.pdf" H 4000 3000 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 4000 3000 60  0001 C CNN
 F 4 "" H 4050 2950 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos" H 4050 2950 50  0001 C CNN "Desc"
+F 6 "A98062-ND " H 4050 2950 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 4050 2950 50  0001 C CNN "Manf"
 	1    4050 2950
 	1    0    0    1   
 $EndComp
@@ -631,9 +643,12 @@ P 4050 3550
 AR Path="/5D85477B/5DAC40FC" Ref="J?"  Part="1" 
 AR Path="/5D8546B3/5DAC40FC" Ref="JE4"  Part="1" 
 F 0 "JE4" H 3920 3503 60  0000 R CNN
-F 1 "TB_1X3" H 3920 3397 60  0001 R CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 3920 3397 60  0001 R CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x03_P5.00mm_Plug-in_PCB" H 4000 3600 60  0001 C CNN
-F 3 "1868733.pdf" H 4000 3600 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 4000 3600 60  0001 C CNN
+F 4 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 4050 3550 50  0001 C CNN "Desc"
+F 5 "A98063-ND" H 4050 3550 50  0001 C CNN "Digikey#"
+F 6 "Weco" H 4050 3550 50  0001 C CNN "Manf"
 	1    4050 3550
 	1    0    0    1   
 $EndComp
@@ -652,7 +667,8 @@ F 1 "SI8380P-IU" H 7500 3624 50  0000 C CNN
 F 2 "Package_SO:QSOP-20_3.9x8.7mm_P0.635mm" H 7450 2700 50  0001 C CNN
 F 3 "https://www.silabs.com/documents/public/data-sheets/Si838x-DataSheet.pdf" H 7450 2700 50  0001 C CNN
 F 4 " 	General Purpose Digital Isolator 2500Vrms 8 Channel 2Mbps 200kV/µs CMTI 20-SSOP (0.154\", 3.90mm Width) " H 7500 2800 50  0001 C CNN "Desc"
-F 5 " 	336-3618-5-ND " H 7500 2800 50  0001 C CNN "Digikey#"
+F 5 "336-3618-5-ND " H 7500 2800 50  0001 C CNN "Digikey#"
+F 6 "Silabs" H 7500 2800 50  0001 C CNN "Manf"
 	1    7500 2800
 	1    0    0    -1  
 $EndComp
@@ -665,10 +681,13 @@ P 4050 2550
 AR Path="/5D85477B/5DB159A8" Ref="J?"  Part="1" 
 AR Path="/5D8546B3/5DB159A8" Ref="JE2"  Part="1" 
 F 0 "JE2" H 3850 2550 60  0000 C CNN
-F 1 "TB_1X2" H 4100 2250 60  0001 C CNN
+F 1 "TB_1X2-PonchoPLC-rescue" H 4100 2250 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 4000 2600 60  0001 C CNN
-F 3 "1868733.pdf" H 4000 2600 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 4000 2600 60  0001 C CNN
 F 4 "" H 4050 2550 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos" H 4050 2550 50  0001 C CNN "Desc"
+F 6 "A98062-ND " H 4050 2550 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 4050 2550 50  0001 C CNN "Manf"
 	1    4050 2550
 	1    0    0    1   
 $EndComp
@@ -679,10 +698,13 @@ P 4050 2150
 AR Path="/5D85477B/5DB116F4" Ref="J?"  Part="1" 
 AR Path="/5D8546B3/5DB116F4" Ref="JE1"  Part="1" 
 F 0 "JE1" H 3850 2150 60  0000 C CNN
-F 1 "TB_1X2" H 4100 1850 60  0001 C CNN
+F 1 "TB_1X2-PonchoPLC-rescue" H 4100 1850 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 4000 2200 60  0001 C CNN
-F 3 "1868733.pdf" H 4000 2200 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 4000 2200 60  0001 C CNN
 F 4 "" H 4050 2150 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos" H 4050 2150 50  0001 C CNN "Desc"
+F 6 "A98062-ND " H 4050 2150 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 4050 2150 50  0001 C CNN "Manf"
 	1    4050 2150
 	1    0    0    1   
 $EndComp
@@ -703,13 +725,14 @@ A7
 Text Label 6300 4400 0    50   ~ 0
 A8
 $Comp
-L power:GNDS #PWR?
-U 1 1 5DCA33B5
+L power:GND #PWR?
+U 1 1 5DE40EB4
 P 9050 3050
-AR Path="/5DAD5FB7/5DCA33B5" Ref="#PWR?"  Part="1" 
-AR Path="/5D8546B3/5DCA33B5" Ref="#PWR0112"  Part="1" 
-F 0 "#PWR0112" H 9050 2800 50  0001 C CNN
-F 1 "GNDS" H 9150 2900 50  0000 R CNN
+AR Path="/5D85477B/5DE40EB4" Ref="#PWR?"  Part="1" 
+AR Path="/5DAD5FB7/5DE40EB4" Ref="#PWR?"  Part="1" 
+AR Path="/5D8546B3/5DE40EB4" Ref="#PWR0142"  Part="1" 
+F 0 "#PWR0142" H 9050 2800 50  0001 C CNN
+F 1 "GND" H 9150 2950 50  0000 C CNN
 F 2 "" H 9050 3050 50  0001 C CNN
 F 3 "" H 9050 3050 50  0001 C CNN
 	1    9050 3050

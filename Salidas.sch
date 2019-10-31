@@ -25,6 +25,8 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 1750 1700 30
 F 4 "" H 1750 1700 60  0001 C CNN "Title"
 F 5 "CR0805-JW-104ELFTR-ND " H 1750 1700 50  0001 C CNN "Digikey#"
 F 6 "1/8W Chip Resistor 0805 " H 1750 1700 50  0001 C CNN "Desc"
+F 7 "Bourns" H 1750 1700 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-104ELFTR-ND%20" H 1750 1700 50  0001 C CNN "DigikeyPage"
 	1    1750 1700
 	1    0    0    -1  
 $EndComp
@@ -39,6 +41,8 @@ F 3 "http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Res
 F 4 "" H 3900 950 60  0001 C CNN "Title"
 F 5 " 283-3142-1-ND " H 3900 950 50  0001 C CNN "Digikey#"
 F 6 " 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave " H 3900 950 50  0001 C CNN "Desc"
+F 7 "Cooper" H 3900 950 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=%20283-3142-1-ND%20" H 3900 950 50  0001 C CNN "DigikeyPage"
 	1    3900 950 
 	0    -1   -1   0   
 $EndComp
@@ -52,7 +56,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 3130 1550 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 3200 1550 30  0001 C CNN
 F 4 "" H 3200 1550 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 3200 1550 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 3200 1550 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 3200 1550 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 3200 1550 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 3200 1550 50  0001 C CNN "DigikeyPage"
 	1    3200 1550
 	-1   0    0    1   
 $EndComp
@@ -67,6 +73,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 3400 1800 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 3400 1800 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 3400 1800 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 3400 1800 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20" H 3400 1800 50  0001 C CNN "DigikeyPage"
 	1    3400 1800
 	1    0    0    -1  
 $EndComp
@@ -81,6 +89,8 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf" H 2300 1450 
 F 4 "" H 2300 1450 60  0001 C CNN "Title"
 F 5 "MCP1416T-E/OTTR-ND " H 2300 1450 50  0001 C CNN "Digikey#"
 F 6 "Low-Side Gate Driver IC Non-Inverting SOT-23-5 " H 2300 1450 50  0001 C CNN "Desc"
+F 7 "Microchip" H 2300 1450 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=MCP1416T-E%2FOTTR-ND%20" H 2300 1450 50  0001 C CNN "DigikeyPage"
 	1    2300 1450
 	1    0    0    -1  
 $EndComp
@@ -95,6 +105,8 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf" H 3500 1250 60  0001
 F 4 "" H 3500 1250 60  0001 C CNN "Title"
 F 5 " FQT13N06LTFTR-ND " H 3500 1250 50  0001 C CNN "Digikey#"
 F 6 "N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4" H 3500 1250 50  0001 C CNN "Desc"
+F 7 "Bourns" H 3500 1250 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=%20FQT13N06LTFTR-ND%20" H 3500 1250 50  0001 C CNN "DigikeyPage"
 	1    3500 1250
 	1    0    0    -1  
 $EndComp
@@ -109,6 +121,8 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 1750 3350 30
 F 4 "" H 1750 3350 60  0001 C CNN "Title"
 F 5 "CR0805-JW-104ELFTR-ND " H 1750 3350 50  0001 C CNN "Digikey#"
 F 6 "1/8W Chip Resistor 0805 " H 1750 3350 50  0001 C CNN "Desc"
+F 7 "Bourns" H 1750 3350 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-104ELFTR-ND%20" H 1750 3350 50  0001 C CNN "DigikeyPage"
 	1    1750 3350
 	1    0    0    -1  
 $EndComp
@@ -123,6 +137,8 @@ F 3 "http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Res
 F 4 "" H 3900 2600 60  0001 C CNN "Title"
 F 5 " 283-3142-1-ND " H 3900 2600 50  0001 C CNN "Digikey#"
 F 6 " 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave " H 3900 2600 50  0001 C CNN "Desc"
+F 7 "Cooper" H 3900 2600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=%20283-3142-1-ND%20" H 3900 2600 50  0001 C CNN "DigikeyPage"
 	1    3900 2600
 	0    -1   -1   0   
 $EndComp
@@ -136,7 +152,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 3130 3200 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 3200 3200 30  0001 C CNN
 F 4 "" H 3200 3200 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 3200 3200 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 3200 3200 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 3200 3200 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 3200 3200 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 3200 3200 50  0001 C CNN "DigikeyPage"
 	1    3200 3200
 	-1   0    0    1   
 $EndComp
@@ -151,6 +169,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 3400 3450 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 3400 3450 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 3400 3450 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 3400 3450 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20" H 3400 3450 50  0001 C CNN "DigikeyPage"
 	1    3400 3450
 	1    0    0    -1  
 $EndComp
@@ -165,6 +185,8 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf" H 2300 3100 
 F 4 "" H 2300 3100 60  0001 C CNN "Title"
 F 5 "MCP1416T-E/OTTR-ND " H 2300 3100 50  0001 C CNN "Digikey#"
 F 6 "Low-Side Gate Driver IC Non-Inverting SOT-23-5 " H 2300 3100 50  0001 C CNN "Desc"
+F 7 "Microchip" H 2300 3100 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=MCP1416T-E%2FOTTR-ND%20" H 2300 3100 50  0001 C CNN "DigikeyPage"
 	1    2300 3100
 	1    0    0    -1  
 $EndComp
@@ -179,6 +201,8 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf" H 3500 2900 60  0001
 F 4 "" H 3500 2900 60  0001 C CNN "Title"
 F 5 " FQT13N06LTFTR-ND " H 3500 2900 50  0001 C CNN "Digikey#"
 F 6 "N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4" H 3500 2900 50  0001 C CNN "Desc"
+F 7 "Bourns" H 3500 2900 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=%20FQT13N06LTFTR-ND%20" H 3500 2900 50  0001 C CNN "DigikeyPage"
 	1    3500 2900
 	1    0    0    -1  
 $EndComp
@@ -193,6 +217,8 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 1750 5050 30
 F 4 "" H 1750 5050 60  0001 C CNN "Title"
 F 5 "CR0805-JW-104ELFTR-ND " H 1750 5050 50  0001 C CNN "Digikey#"
 F 6 "1/8W Chip Resistor 0805 " H 1750 5050 50  0001 C CNN "Desc"
+F 7 "Bourns" H 1750 5050 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-104ELFTR-ND%20" H 1750 5050 50  0001 C CNN "DigikeyPage"
 	1    1750 5050
 	1    0    0    -1  
 $EndComp
@@ -207,6 +233,8 @@ F 3 "http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Res
 F 4 "" H 3900 4300 60  0001 C CNN "Title"
 F 5 " 283-3142-1-ND " H 3900 4300 50  0001 C CNN "Digikey#"
 F 6 " 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave " H 3900 4300 50  0001 C CNN "Desc"
+F 7 "Cooper" H 3900 4300 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=%20283-3142-1-ND%20" H 3900 4300 50  0001 C CNN "DigikeyPage"
 	1    3900 4300
 	0    -1   -1   0   
 $EndComp
@@ -220,7 +248,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 3130 4900 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 3200 4900 30  0001 C CNN
 F 4 "" H 3200 4900 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 3200 4900 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 3200 4900 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 3200 4900 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 3200 4900 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 3200 4900 50  0001 C CNN "DigikeyPage"
 	1    3200 4900
 	-1   0    0    1   
 $EndComp
@@ -235,6 +265,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 3400 5150 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 3400 5150 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 3400 5150 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 3400 5150 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20" H 3400 5150 50  0001 C CNN "DigikeyPage"
 	1    3400 5150
 	1    0    0    -1  
 $EndComp
@@ -249,6 +281,8 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf" H 2300 4800 
 F 4 "" H 2300 4800 60  0001 C CNN "Title"
 F 5 "MCP1416T-E/OTTR-ND " H 2300 4800 50  0001 C CNN "Digikey#"
 F 6 "Low-Side Gate Driver IC Non-Inverting SOT-23-5 " H 2300 4800 50  0001 C CNN "Desc"
+F 7 "Microchip" H 2300 4800 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=MCP1416T-E%2FOTTR-ND%20" H 2300 4800 50  0001 C CNN "DigikeyPage"
 	1    2300 4800
 	1    0    0    -1  
 $EndComp
@@ -263,6 +297,8 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf" H 3500 4600 60  0001
 F 4 "" H 3500 4600 60  0001 C CNN "Title"
 F 5 " FQT13N06LTFTR-ND " H 3500 4600 50  0001 C CNN "Digikey#"
 F 6 "N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4" H 3500 4600 50  0001 C CNN "Desc"
+F 7 "Bourns" H 3500 4600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=%20FQT13N06LTFTR-ND%20" H 3500 4600 50  0001 C CNN "DigikeyPage"
 	1    3500 4600
 	1    0    0    -1  
 $EndComp
@@ -277,6 +313,8 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 1750 6750 30
 F 4 "" H 1750 6750 60  0001 C CNN "Title"
 F 5 "CR0805-JW-104ELFTR-ND " H 1750 6750 50  0001 C CNN "Digikey#"
 F 6 "1/8W Chip Resistor 0805 " H 1750 6750 50  0001 C CNN "Desc"
+F 7 "Bourns" H 1750 6750 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-104ELFTR-ND%20" H 1750 6750 50  0001 C CNN "DigikeyPage"
 	1    1750 6750
 	1    0    0    -1  
 $EndComp
@@ -291,6 +329,8 @@ F 3 "http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Res
 F 4 "" H 3900 6000 60  0001 C CNN "Title"
 F 5 " 283-3142-1-ND " H 3900 6000 50  0001 C CNN "Digikey#"
 F 6 " 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave " H 3900 6000 50  0001 C CNN "Desc"
+F 7 "Cooper" H 3900 6000 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=%20283-3142-1-ND%20" H 3900 6000 50  0001 C CNN "DigikeyPage"
 	1    3900 6000
 	0    -1   -1   0   
 $EndComp
@@ -304,7 +344,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 3130 6600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 3200 6600 30  0001 C CNN
 F 4 "" H 3200 6600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 3200 6600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 3200 6600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 3200 6600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 3200 6600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 3200 6600 50  0001 C CNN "DigikeyPage"
 	1    3200 6600
 	-1   0    0    1   
 $EndComp
@@ -319,6 +361,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 3350 6850 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 3350 6850 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 3350 6850 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 3350 6850 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20" H 3350 6850 50  0001 C CNN "DigikeyPage"
 	1    3350 6850
 	1    0    0    -1  
 $EndComp
@@ -333,6 +377,8 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf" H 2300 6500 
 F 4 "" H 2300 6500 60  0001 C CNN "Title"
 F 5 "MCP1416T-E/OTTR-ND " H 2300 6500 50  0001 C CNN "Digikey#"
 F 6 "Low-Side Gate Driver IC Non-Inverting SOT-23-5 " H 2300 6500 50  0001 C CNN "Desc"
+F 7 "Microchip" H 2300 6500 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=MCP1416T-E%2FOTTR-ND%20" H 2300 6500 50  0001 C CNN "DigikeyPage"
 	1    2300 6500
 	1    0    0    -1  
 $EndComp
@@ -347,6 +393,8 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf" H 3500 6300 60  0001
 F 4 "" H 3500 6300 60  0001 C CNN "Title"
 F 5 " FQT13N06LTFTR-ND " H 3500 6300 50  0001 C CNN "Digikey#"
 F 6 "N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4" H 3500 6300 50  0001 C CNN "Desc"
+F 7 "Bourns" H 3500 6300 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=%20FQT13N06LTFTR-ND%20" H 3500 6300 50  0001 C CNN "DigikeyPage"
 	1    3500 6300
 	1    0    0    -1  
 $EndComp
@@ -374,6 +422,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1850 5900 60  0001 C CNN "Title"
 F 5 "1276-1007-2-ND" H 1850 6100 50  0001 C CNN "Digikey#"
 F 6 "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) " H 1850 6100 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1850 6100 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1276-1007-2-ND" H 1850 6100 50  0001 C CNN "DigikeyPage"
 	1    1850 6100
 	0    -1   -1   0   
 $EndComp
@@ -388,6 +438,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1550 6100 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 1550 6100 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 1550 6100 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1550 6100 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND" H 1550 6100 50  0001 C CNN "DigikeyPage"
 	1    1550 6100
 	0    -1   -1   0   
 $EndComp
@@ -415,6 +467,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1850 4200 60  0001 C CNN "Title"
 F 5 "1276-1007-2-ND" H 1850 4400 50  0001 C CNN "Digikey#"
 F 6 "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) " H 1850 4400 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1850 4400 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1276-1007-2-ND" H 1850 4400 50  0001 C CNN "DigikeyPage"
 	1    1850 4400
 	0    -1   -1   0   
 $EndComp
@@ -429,6 +483,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1550 4400 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 1550 4400 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 1550 4400 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1550 4400 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND" H 1550 4400 50  0001 C CNN "DigikeyPage"
 	1    1550 4400
 	0    -1   -1   0   
 $EndComp
@@ -456,6 +512,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1850 2500 60  0001 C CNN "Title"
 F 5 "1276-1007-2-ND" H 1850 2700 50  0001 C CNN "Digikey#"
 F 6 "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) " H 1850 2700 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1850 2700 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1276-1007-2-ND" H 1850 2700 50  0001 C CNN "DigikeyPage"
 	1    1850 2700
 	0    -1   -1   0   
 $EndComp
@@ -470,6 +528,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1550 2700 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 1550 2700 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 1550 2700 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1550 2700 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND" H 1550 2700 50  0001 C CNN "DigikeyPage"
 	1    1550 2700
 	0    -1   -1   0   
 $EndComp
@@ -497,6 +557,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1850 850 60  0001 C CNN "Title"
 F 5 "1276-1007-2-ND" H 1850 1050 50  0001 C CNN "Digikey#"
 F 6 "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) " H 1850 1050 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1850 1050 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1276-1007-2-ND" H 1850 1050 50  0001 C CNN "DigikeyPage"
 	1    1850 1050
 	0    -1   -1   0   
 $EndComp
@@ -511,6 +573,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1550 1050 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 1550 1050 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 1550 1050 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1550 1050 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND" H 1550 1050 50  0001 C CNN "DigikeyPage"
 	1    1550 1050
 	0    -1   -1   0   
 $EndComp
@@ -523,8 +587,10 @@ F 1 "Jumper" H 2500 3700 30  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 3650 60  0001 C CNN
 F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 2500 3650 60  0001 C CNN
 F 4 "" H 2500 3650 60  0001 C CNN "Title"
-F 5 " 	2057-PH2-12-UA-ND " H 2500 3650 50  0001 C CNN "Digikey#"
+F 5 "2057-PH2-12-UA-ND " H 2500 3650 50  0001 C CNN "Digikey#"
 F 6 "Connector Header Through Hole " H 2500 3650 50  0001 C CNN "Desc"
+F 7 "Adam" H 2500 3650 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 2500 3650 50  0001 C CNN "DigikeyPage"
 	1    2500 3650
 	1    0    0    1   
 $EndComp
@@ -537,8 +603,10 @@ F 1 "Jumper" H 2500 2050 30  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 2000 60  0001 C CNN
 F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 2500 2000 60  0001 C CNN
 F 4 "" H 2500 2000 60  0001 C CNN "Title"
-F 5 " 	2057-PH2-12-UA-ND " H 2500 2000 50  0001 C CNN "Digikey#"
+F 5 "2057-PH2-12-UA-ND " H 2500 2000 50  0001 C CNN "Digikey#"
 F 6 "Connector Header Through Hole " H 2500 2000 50  0001 C CNN "Desc"
+F 7 "Adam" H 2500 2000 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 2500 2000 50  0001 C CNN "DigikeyPage"
 	1    2500 2000
 	1    0    0    1   
 $EndComp
@@ -551,8 +619,10 @@ F 1 "Jumper" H 2500 5450 30  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 5400 60  0001 C CNN
 F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 2500 5400 60  0001 C CNN
 F 4 "" H 2500 5400 60  0001 C CNN "Title"
-F 5 " 	2057-PH2-12-UA-ND " H 2500 5400 50  0001 C CNN "Digikey#"
+F 5 "2057-PH2-12-UA-ND " H 2500 5400 50  0001 C CNN "Digikey#"
 F 6 "Connector Header Through Hole " H 2500 5400 50  0001 C CNN "Desc"
+F 7 "Adam" H 2500 5400 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 2500 5400 50  0001 C CNN "DigikeyPage"
 	1    2500 5400
 	1    0    0    1   
 $EndComp
@@ -565,8 +635,10 @@ F 1 "Jumper" H 2500 7100 30  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 7050 60  0001 C CNN
 F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 2500 7050 60  0001 C CNN
 F 4 "" H 2500 7050 60  0001 C CNN "Title"
-F 5 " 	2057-PH2-12-UA-ND " H 2500 7050 50  0001 C CNN "Digikey#"
+F 5 "2057-PH2-12-UA-ND " H 2500 7050 50  0001 C CNN "Digikey#"
 F 6 "Connector Header Through Hole " H 2500 7050 50  0001 C CNN "Desc"
+F 7 "Adam" H 2500 7050 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 2500 7050 50  0001 C CNN "DigikeyPage"
 	1    2500 7050
 	1    0    0    1   
 $EndComp
@@ -868,8 +940,9 @@ F 2 "Package_DIP:SMDIP-6_W9.53mm" H 8500 1500 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/81646/vo14642a.pdf" H 8650 1700 50  0001 L CNN
 F 4 " 	Solid State SPST-NO (1 Form A) 6-SMD (0.300\", 7.62mm) " H 8700 1700 60  0001 C CNN "Desc"
 F 5 "Vishay" H 8700 1700 60  0001 C CNN "Manf"
-F 6 "VO14642AABTR" H 8700 1700 60  0001 C CNN "Manf#"
+F 6 "" H 8700 1700 60  0001 C CNN "Manf#"
 F 7 "VO14642AABCT-ND" H 8700 1700 60  0001 C CNN "Digikey#"
+F 8 "https://www.digikey.com/products/en?keywords=VO14642AABCT-ND" H 8700 1700 50  0001 C CNN "DigikeyPage"
 	1    8700 1700
 	1    0    0    -1  
 $EndComp
@@ -895,7 +968,11 @@ P 5250 3550
 F 0 "J2" H 5120 3503 60  0000 R CNN
 F 1 "TB_1X3-PonchoPLC-rescue" H 5120 3397 60  0001 R CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x03_P5.00mm_Plug-in_PCB" H 5200 3600 60  0001 C CNN
-F 3 "1868733.pdf" H 5200 3600 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 5200 3600 60  0001 C CNN
+F 4 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 5250 3550 50  0001 C CNN "Desc"
+F 5 "A98063-ND" H 5250 3550 50  0001 C CNN "Digikey#"
+F 6 "Weco" H 5250 3550 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=A98063-ND" H 5250 3550 50  0001 C CNN "DigikeyPage"
 	1    5250 3550
 	-1   0    0    1   
 $EndComp
@@ -911,7 +988,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 8080 1600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 8150 1600 30  0001 C CNN
 F 4 "" H 8150 1600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 8150 1600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 8150 1600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 8150 1600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 8150 1600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 8150 1600 50  0001 C CNN "DigikeyPage"
 	1    8150 1600
 	0    1    1    0   
 $EndComp
@@ -927,7 +1006,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 1750 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 1750 30  0001 C CNN
 F 4 "" H 7900 1750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 1750 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 7900 1750 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 7900 1750 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 7900 1750 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 7900 1750 50  0001 C CNN "DigikeyPage"
 	1    7900 1750
 	-1   0    0    1   
 $EndComp
@@ -942,6 +1023,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 7900 1950 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 7900 1950 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 7900 1950 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 7900 1950 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20" H 7900 1950 50  0001 C CNN "DigikeyPage"
 	1    7900 1950
 	0    1    1    0   
 $EndComp
@@ -955,8 +1038,9 @@ F 2 "Package_DIP:SMDIP-6_W9.53mm" H 8500 2500 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/81646/vo14642a.pdf" H 8650 2700 50  0001 L CNN
 F 4 " 	Solid State SPST-NO (1 Form A) 6-SMD (0.300\", 7.62mm) " H 8700 2700 60  0001 C CNN "Desc"
 F 5 "Vishay" H 8700 2700 60  0001 C CNN "Manf"
-F 6 "VO14642AABTR" H 8700 2700 60  0001 C CNN "Manf#"
+F 6 "" H 8700 2700 60  0001 C CNN "Manf#"
 F 7 "VO14642AABCT-ND" H 8700 2700 60  0001 C CNN "Digikey#"
+F 8 "https://www.digikey.com/products/en?keywords=VO14642AABCT-ND" H 8700 2700 50  0001 C CNN "DigikeyPage"
 	1    8700 2700
 	1    0    0    -1  
 $EndComp
@@ -973,7 +1057,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 8080 2600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 8150 2600 30  0001 C CNN
 F 4 "" H 8150 2600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 8150 2600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 8150 2600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 8150 2600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 8150 2600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 8150 2600 50  0001 C CNN "DigikeyPage"
 	1    8150 2600
 	0    1    1    0   
 $EndComp
@@ -989,7 +1075,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 2750 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 2750 30  0000 C CNN
 F 4 "" H 7900 2750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 2750 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 7900 2750 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 7900 2750 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 7900 2750 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 7900 2750 50  0001 C CNN "DigikeyPage"
 	1    7900 2750
 	-1   0    0    1   
 $EndComp
@@ -1004,6 +1092,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 7900 2950 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 7900 2950 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 7900 2950 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 7900 2950 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20" H 7900 2950 50  0001 C CNN "DigikeyPage"
 	1    7900 2950
 	0    1    1    0   
 $EndComp
@@ -1017,8 +1107,9 @@ F 2 "Package_DIP:SMDIP-6_W9.53mm" H 8500 3500 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/81646/vo14642a.pdf" H 8650 3700 50  0001 L CNN
 F 4 " 	Solid State SPST-NO (1 Form A) 6-SMD (0.300\", 7.62mm) " H 8700 3700 60  0001 C CNN "Desc"
 F 5 "Vishay" H 8700 3700 60  0001 C CNN "Manf"
-F 6 "VO14642AABTR" H 8700 3700 60  0001 C CNN "Manf#"
+F 6 "" H 8700 3700 60  0001 C CNN "Manf#"
 F 7 "VO14642AABCT-ND" H 8700 3700 60  0001 C CNN "Digikey#"
+F 8 "https://www.digikey.com/products/en?keywords=VO14642AABCT-ND" H 8700 3700 50  0001 C CNN "DigikeyPage"
 	1    8700 3700
 	1    0    0    -1  
 $EndComp
@@ -1035,7 +1126,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 8080 3600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 8150 3600 30  0001 C CNN
 F 4 "" H 8150 3600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 8150 3600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 8150 3600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 8150 3600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 8150 3600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 8150 3600 50  0001 C CNN "DigikeyPage"
 	1    8150 3600
 	0    1    1    0   
 $EndComp
@@ -1051,7 +1144,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 3750 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 3750 30  0000 C CNN
 F 4 "" H 7900 3750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 3750 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 7900 3750 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 7900 3750 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 7900 3750 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 7900 3750 50  0001 C CNN "DigikeyPage"
 	1    7900 3750
 	-1   0    0    1   
 $EndComp
@@ -1066,6 +1161,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 7900 3950 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 7900 3950 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 7900 3950 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 7900 3950 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20" H 7900 3950 50  0001 C CNN "DigikeyPage"
 	1    7900 3950
 	0    1    1    0   
 $EndComp
@@ -1079,8 +1176,9 @@ F 2 "Package_DIP:SMDIP-6_W9.53mm" H 8500 4500 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/81646/vo14642a.pdf" H 8650 4700 50  0001 L CNN
 F 4 " 	Solid State SPST-NO (1 Form A) 6-SMD (0.300\", 7.62mm) " H 8700 4700 60  0001 C CNN "Desc"
 F 5 "Vishay" H 8700 4700 60  0001 C CNN "Manf"
-F 6 "VO14642AABTR" H 8700 4700 60  0001 C CNN "Manf#"
+F 6 "" H 8700 4700 60  0001 C CNN "Manf#"
 F 7 "VO14642AABCT-ND" H 8700 4700 60  0001 C CNN "Digikey#"
+F 8 "https://www.digikey.com/products/en?keywords=VO14642AABCT-ND" H 8700 4700 50  0001 C CNN "DigikeyPage"
 	1    8700 4700
 	1    0    0    -1  
 $EndComp
@@ -1097,7 +1195,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 8080 4600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 8150 4600 30  0001 C CNN
 F 4 "" H 8150 4600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 8150 4600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 8150 4600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 8150 4600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 8150 4600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 8150 4600 50  0001 C CNN "DigikeyPage"
 	1    8150 4600
 	0    1    1    0   
 $EndComp
@@ -1113,7 +1213,9 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 4750 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 4750 30  0001 C CNN
 F 4 "" H 7900 4750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 4750 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 7900 4750 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 7900 4750 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 7900 4750 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND" H 7900 4750 50  0001 C CNN "DigikeyPage"
 	1    7900 4750
 	-1   0    0    1   
 $EndComp
@@ -1128,6 +1230,8 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 7900 4950 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 7900 4950 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 7900 4950 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 7900 4950 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20" H 7900 4950 50  0001 C CNN "DigikeyPage"
 	1    7900 4950
 	0    1    1    0   
 $EndComp
@@ -1283,8 +1387,12 @@ P 5250 2950
 F 0 "J1" H 5050 2950 60  0000 C CNN
 F 1 "TB_1X2-PonchoPLC-rescue" H 5300 2650 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 5200 3000 60  0001 C CNN
-F 3 "1868733.pdf" H 5200 3000 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 5200 3000 60  0001 C CNN
 F 4 "" H 5250 2950 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos" H 5250 2950 50  0001 C CNN "Desc"
+F 6 "A98062-ND " H 5250 2950 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 5250 2950 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=A98062-ND%20" H 5250 2950 50  0001 C CNN "DigikeyPage"
 	1    5250 2950
 	-1   0    0    1   
 $EndComp
@@ -1293,10 +1401,14 @@ L Poncho-PLC7-rescue:TB_1X2 J3
 U 1 1 5DAD390E
 P 10250 2600
 F 0 "J3" H 10050 2600 60  0000 C CNN
-F 1 "TB_1X2" H 10300 2300 60  0001 C CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 10300 2300 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 10200 2650 60  0001 C CNN
-F 3 "1868733.pdf" H 10200 2650 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 10200 2650 60  0001 C CNN
 F 4 "" H 10250 2600 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 10250 2600 50  0001 C CNN "Desc"
+F 6 "A98063-ND" H 10250 2600 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 10250 2600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=A98063-ND" H 10250 2600 50  0001 C CNN "DigikeyPage"
 	1    10250 2600
 	-1   0    0    -1  
 $EndComp
@@ -1305,10 +1417,14 @@ L Poncho-PLC7-rescue:TB_1X2 J4
 U 1 1 5DADD9D9
 P 10250 3000
 F 0 "J4" H 10050 3000 60  0000 C CNN
-F 1 "TB_1X2" H 10300 2700 60  0001 C CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 10300 2700 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 10200 3050 60  0001 C CNN
-F 3 "1868733.pdf" H 10200 3050 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 10200 3050 60  0001 C CNN
 F 4 "" H 10250 3000 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 10250 3000 50  0001 C CNN "Desc"
+F 6 "A98063-ND" H 10250 3000 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 10250 3000 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=A98063-ND" H 10250 3000 50  0001 C CNN "DigikeyPage"
 	1    10250 3000
 	-1   0    0    -1  
 $EndComp
@@ -1317,10 +1433,14 @@ L Poncho-PLC7-rescue:TB_1X2 J5
 U 1 1 5DAE790E
 P 10250 3400
 F 0 "J5" H 10050 3400 60  0000 C CNN
-F 1 "TB_1X2" H 10300 3100 60  0001 C CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 10300 3100 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 10200 3450 60  0001 C CNN
-F 3 "1868733.pdf" H 10200 3450 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 10200 3450 60  0001 C CNN
 F 4 "" H 10250 3400 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 10250 3400 50  0001 C CNN "Desc"
+F 6 "A98063-ND" H 10250 3400 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 10250 3400 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=A98063-ND" H 10250 3400 50  0001 C CNN "DigikeyPage"
 	1    10250 3400
 	-1   0    0    -1  
 $EndComp
@@ -1329,10 +1449,14 @@ L Poncho-PLC7-rescue:TB_1X2 J6
 U 1 1 5DAF1ADD
 P 10250 3800
 F 0 "J6" H 10050 3800 60  0000 C CNN
-F 1 "TB_1X2" H 10300 3500 60  0001 C CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 10300 3500 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 10200 3850 60  0001 C CNN
-F 3 "1868733.pdf" H 10200 3850 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 10200 3850 60  0001 C CNN
 F 4 "" H 10250 3800 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 10250 3800 50  0001 C CNN "Desc"
+F 6 "A98063-ND" H 10250 3800 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 10250 3800 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=A98063-ND" H 10250 3800 50  0001 C CNN "DigikeyPage"
 	1    10250 3800
 	-1   0    0    -1  
 $EndComp

@@ -25,6 +25,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 1750 1700 30
 F 4 "" H 1750 1700 60  0001 C CNN "Title"
 F 5 "CR0805-JW-104ELFTR-ND " H 1750 1700 50  0001 C CNN "Digikey#"
 F 6 "1/8W Chip Resistor 0805 " H 1750 1700 50  0001 C CNN "Desc"
+F 7 "Bourns" H 1750 1700 50  0001 C CNN "Manf"
 	1    1750 1700
 	1    0    0    -1  
 $EndComp
@@ -39,6 +40,7 @@ F 3 "http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Res
 F 4 "" H 3900 950 60  0001 C CNN "Title"
 F 5 " 283-3142-1-ND " H 3900 950 50  0001 C CNN "Digikey#"
 F 6 " 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave " H 3900 950 50  0001 C CNN "Desc"
+F 7 "Cooper" H 3900 950 50  0001 C CNN "Manf"
 	1    3900 950 
 	0    -1   -1   0   
 $EndComp
@@ -52,7 +54,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 3130 1550 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 3200 1550 30  0001 C CNN
 F 4 "" H 3200 1550 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 3200 1550 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 3200 1550 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 3200 1550 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 3200 1550 50  0001 C CNN "Manf"
 	1    3200 1550
 	-1   0    0    1   
 $EndComp
@@ -67,6 +70,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 3400 1800 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 3400 1800 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 3400 1800 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 3400 1800 50  0001 C CNN "Manf"
 	1    3400 1800
 	1    0    0    -1  
 $EndComp
@@ -81,6 +85,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf" H 2300 1450 
 F 4 "" H 2300 1450 60  0001 C CNN "Title"
 F 5 "MCP1416T-E/OTTR-ND " H 2300 1450 50  0001 C CNN "Digikey#"
 F 6 "Low-Side Gate Driver IC Non-Inverting SOT-23-5 " H 2300 1450 50  0001 C CNN "Desc"
+F 7 "Microchip" H 2300 1450 50  0001 C CNN "Manf"
 	1    2300 1450
 	1    0    0    -1  
 $EndComp
@@ -95,6 +100,7 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf" H 3500 1250 60  0001
 F 4 "" H 3500 1250 60  0001 C CNN "Title"
 F 5 " FQT13N06LTFTR-ND " H 3500 1250 50  0001 C CNN "Digikey#"
 F 6 "N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4" H 3500 1250 50  0001 C CNN "Desc"
+F 7 "Bourns" H 3500 1250 50  0001 C CNN "Manf"
 	1    3500 1250
 	1    0    0    -1  
 $EndComp
@@ -109,6 +115,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 1750 3350 30
 F 4 "" H 1750 3350 60  0001 C CNN "Title"
 F 5 "CR0805-JW-104ELFTR-ND " H 1750 3350 50  0001 C CNN "Digikey#"
 F 6 "1/8W Chip Resistor 0805 " H 1750 3350 50  0001 C CNN "Desc"
+F 7 "Bourns" H 1750 3350 50  0001 C CNN "Manf"
 	1    1750 3350
 	1    0    0    -1  
 $EndComp
@@ -123,6 +130,7 @@ F 3 "http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Res
 F 4 "" H 3900 2600 60  0001 C CNN "Title"
 F 5 " 283-3142-1-ND " H 3900 2600 50  0001 C CNN "Digikey#"
 F 6 " 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave " H 3900 2600 50  0001 C CNN "Desc"
+F 7 "Cooper" H 3900 2600 50  0001 C CNN "Manf"
 	1    3900 2600
 	0    -1   -1   0   
 $EndComp
@@ -136,7 +144,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 3130 3200 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 3200 3200 30  0001 C CNN
 F 4 "" H 3200 3200 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 3200 3200 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 3200 3200 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 3200 3200 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 3200 3200 50  0001 C CNN "Manf"
 	1    3200 3200
 	-1   0    0    1   
 $EndComp
@@ -151,6 +160,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 3400 3450 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 3400 3450 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 3400 3450 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 3400 3450 50  0001 C CNN "Manf"
 	1    3400 3450
 	1    0    0    -1  
 $EndComp
@@ -165,6 +175,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf" H 2300 3100 
 F 4 "" H 2300 3100 60  0001 C CNN "Title"
 F 5 "MCP1416T-E/OTTR-ND " H 2300 3100 50  0001 C CNN "Digikey#"
 F 6 "Low-Side Gate Driver IC Non-Inverting SOT-23-5 " H 2300 3100 50  0001 C CNN "Desc"
+F 7 "Microchip" H 2300 3100 50  0001 C CNN "Manf"
 	1    2300 3100
 	1    0    0    -1  
 $EndComp
@@ -179,6 +190,7 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf" H 3500 2900 60  0001
 F 4 "" H 3500 2900 60  0001 C CNN "Title"
 F 5 " FQT13N06LTFTR-ND " H 3500 2900 50  0001 C CNN "Digikey#"
 F 6 "N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4" H 3500 2900 50  0001 C CNN "Desc"
+F 7 "Bourns" H 3500 2900 50  0001 C CNN "Manf"
 	1    3500 2900
 	1    0    0    -1  
 $EndComp
@@ -193,6 +205,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 1750 5050 30
 F 4 "" H 1750 5050 60  0001 C CNN "Title"
 F 5 "CR0805-JW-104ELFTR-ND " H 1750 5050 50  0001 C CNN "Digikey#"
 F 6 "1/8W Chip Resistor 0805 " H 1750 5050 50  0001 C CNN "Desc"
+F 7 "Bourns" H 1750 5050 50  0001 C CNN "Manf"
 	1    1750 5050
 	1    0    0    -1  
 $EndComp
@@ -207,6 +220,7 @@ F 3 "http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Res
 F 4 "" H 3900 4300 60  0001 C CNN "Title"
 F 5 " 283-3142-1-ND " H 3900 4300 50  0001 C CNN "Digikey#"
 F 6 " 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave " H 3900 4300 50  0001 C CNN "Desc"
+F 7 "Cooper" H 3900 4300 50  0001 C CNN "Manf"
 	1    3900 4300
 	0    -1   -1   0   
 $EndComp
@@ -220,7 +234,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 3130 4900 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 3200 4900 30  0001 C CNN
 F 4 "" H 3200 4900 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 3200 4900 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 3200 4900 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 3200 4900 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 3200 4900 50  0001 C CNN "Manf"
 	1    3200 4900
 	-1   0    0    1   
 $EndComp
@@ -235,6 +250,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 3400 5150 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 3400 5150 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 3400 5150 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 3400 5150 50  0001 C CNN "Manf"
 	1    3400 5150
 	1    0    0    -1  
 $EndComp
@@ -249,6 +265,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf" H 2300 4800 
 F 4 "" H 2300 4800 60  0001 C CNN "Title"
 F 5 "MCP1416T-E/OTTR-ND " H 2300 4800 50  0001 C CNN "Digikey#"
 F 6 "Low-Side Gate Driver IC Non-Inverting SOT-23-5 " H 2300 4800 50  0001 C CNN "Desc"
+F 7 "Microchip" H 2300 4800 50  0001 C CNN "Manf"
 	1    2300 4800
 	1    0    0    -1  
 $EndComp
@@ -263,6 +280,7 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf" H 3500 4600 60  0001
 F 4 "" H 3500 4600 60  0001 C CNN "Title"
 F 5 " FQT13N06LTFTR-ND " H 3500 4600 50  0001 C CNN "Digikey#"
 F 6 "N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4" H 3500 4600 50  0001 C CNN "Desc"
+F 7 "Bourns" H 3500 4600 50  0001 C CNN "Manf"
 	1    3500 4600
 	1    0    0    -1  
 $EndComp
@@ -277,6 +295,7 @@ F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 1750 6750 30
 F 4 "" H 1750 6750 60  0001 C CNN "Title"
 F 5 "CR0805-JW-104ELFTR-ND " H 1750 6750 50  0001 C CNN "Digikey#"
 F 6 "1/8W Chip Resistor 0805 " H 1750 6750 50  0001 C CNN "Desc"
+F 7 "Bourns" H 1750 6750 50  0001 C CNN "Manf"
 	1    1750 6750
 	1    0    0    -1  
 $EndComp
@@ -291,6 +310,7 @@ F 3 "http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Res
 F 4 "" H 3900 6000 60  0001 C CNN "Title"
 F 5 " 283-3142-1-ND " H 3900 6000 50  0001 C CNN "Digikey#"
 F 6 " 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave " H 3900 6000 50  0001 C CNN "Desc"
+F 7 "Cooper" H 3900 6000 50  0001 C CNN "Manf"
 	1    3900 6000
 	0    -1   -1   0   
 $EndComp
@@ -304,7 +324,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 3130 6600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 3200 6600 30  0001 C CNN
 F 4 "" H 3200 6600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 3200 6600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 3200 6600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 3200 6600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 3200 6600 50  0001 C CNN "Manf"
 	1    3200 6600
 	-1   0    0    1   
 $EndComp
@@ -319,6 +340,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 3350 6850 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 3350 6850 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 3350 6850 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 3350 6850 50  0001 C CNN "Manf"
 	1    3350 6850
 	1    0    0    -1  
 $EndComp
@@ -333,6 +355,7 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf" H 2300 6500 
 F 4 "" H 2300 6500 60  0001 C CNN "Title"
 F 5 "MCP1416T-E/OTTR-ND " H 2300 6500 50  0001 C CNN "Digikey#"
 F 6 "Low-Side Gate Driver IC Non-Inverting SOT-23-5 " H 2300 6500 50  0001 C CNN "Desc"
+F 7 "Microchip" H 2300 6500 50  0001 C CNN "Manf"
 	1    2300 6500
 	1    0    0    -1  
 $EndComp
@@ -347,6 +370,7 @@ F 3 "https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf" H 3500 6300 60  0001
 F 4 "" H 3500 6300 60  0001 C CNN "Title"
 F 5 " FQT13N06LTFTR-ND " H 3500 6300 50  0001 C CNN "Digikey#"
 F 6 "N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4" H 3500 6300 50  0001 C CNN "Desc"
+F 7 "Bourns" H 3500 6300 50  0001 C CNN "Manf"
 	1    3500 6300
 	1    0    0    -1  
 $EndComp
@@ -374,6 +398,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1850 5900 60  0001 C CNN "Title"
 F 5 "1276-1007-2-ND" H 1850 6100 50  0001 C CNN "Digikey#"
 F 6 "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) " H 1850 6100 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1850 6100 50  0001 C CNN "Manf"
 	1    1850 6100
 	0    -1   -1   0   
 $EndComp
@@ -388,6 +413,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1550 6100 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 1550 6100 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 1550 6100 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1550 6100 50  0001 C CNN "Manf"
 	1    1550 6100
 	0    -1   -1   0   
 $EndComp
@@ -415,6 +441,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1850 4200 60  0001 C CNN "Title"
 F 5 "1276-1007-2-ND" H 1850 4400 50  0001 C CNN "Digikey#"
 F 6 "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) " H 1850 4400 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1850 4400 50  0001 C CNN "Manf"
 	1    1850 4400
 	0    -1   -1   0   
 $EndComp
@@ -429,6 +456,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1550 4400 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 1550 4400 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 1550 4400 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1550 4400 50  0001 C CNN "Manf"
 	1    1550 4400
 	0    -1   -1   0   
 $EndComp
@@ -456,6 +484,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1850 2500 60  0001 C CNN "Title"
 F 5 "1276-1007-2-ND" H 1850 2700 50  0001 C CNN "Digikey#"
 F 6 "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) " H 1850 2700 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1850 2700 50  0001 C CNN "Manf"
 	1    1850 2700
 	0    -1   -1   0   
 $EndComp
@@ -470,6 +499,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1550 2700 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 1550 2700 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 1550 2700 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1550 2700 50  0001 C CNN "Manf"
 	1    1550 2700
 	0    -1   -1   0   
 $EndComp
@@ -497,6 +527,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1850 850 60  0001 C CNN "Title"
 F 5 "1276-1007-2-ND" H 1850 1050 50  0001 C CNN "Digikey#"
 F 6 "0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) " H 1850 1050 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1850 1050 50  0001 C CNN "Manf"
 	1    1850 1050
 	0    -1   -1   0   
 $EndComp
@@ -511,6 +542,7 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_d
 F 4 "" H 1550 1050 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 1550 1050 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 1550 1050 50  0001 C CNN "Desc"
+F 7 "Samsung" H 1550 1050 50  0001 C CNN "Manf"
 	1    1550 1050
 	0    -1   -1   0   
 $EndComp
@@ -523,8 +555,9 @@ F 1 "Jumper" H 2500 3700 30  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 3650 60  0001 C CNN
 F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 2500 3650 60  0001 C CNN
 F 4 "" H 2500 3650 60  0001 C CNN "Title"
-F 5 " 	2057-PH2-12-UA-ND " H 2500 3650 50  0001 C CNN "Digikey#"
+F 5 "2057-PH2-12-UA-ND " H 2500 3650 50  0001 C CNN "Digikey#"
 F 6 "Connector Header Through Hole " H 2500 3650 50  0001 C CNN "Desc"
+F 7 "Adam" H 2500 3650 50  0001 C CNN "Manf"
 	1    2500 3650
 	1    0    0    1   
 $EndComp
@@ -537,8 +570,9 @@ F 1 "Jumper" H 2500 2050 30  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 2000 60  0001 C CNN
 F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 2500 2000 60  0001 C CNN
 F 4 "" H 2500 2000 60  0001 C CNN "Title"
-F 5 " 	2057-PH2-12-UA-ND " H 2500 2000 50  0001 C CNN "Digikey#"
+F 5 "2057-PH2-12-UA-ND " H 2500 2000 50  0001 C CNN "Digikey#"
 F 6 "Connector Header Through Hole " H 2500 2000 50  0001 C CNN "Desc"
+F 7 "Adam" H 2500 2000 50  0001 C CNN "Manf"
 	1    2500 2000
 	1    0    0    1   
 $EndComp
@@ -551,8 +585,9 @@ F 1 "Jumper" H 2500 5450 30  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 5400 60  0001 C CNN
 F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 2500 5400 60  0001 C CNN
 F 4 "" H 2500 5400 60  0001 C CNN "Title"
-F 5 " 	2057-PH2-12-UA-ND " H 2500 5400 50  0001 C CNN "Digikey#"
+F 5 "2057-PH2-12-UA-ND " H 2500 5400 50  0001 C CNN "Digikey#"
 F 6 "Connector Header Through Hole " H 2500 5400 50  0001 C CNN "Desc"
+F 7 "Adam" H 2500 5400 50  0001 C CNN "Manf"
 	1    2500 5400
 	1    0    0    1   
 $EndComp
@@ -565,8 +600,9 @@ F 1 "Jumper" H 2500 7100 30  0001 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 2500 7050 60  0001 C CNN
 F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 2500 7050 60  0001 C CNN
 F 4 "" H 2500 7050 60  0001 C CNN "Title"
-F 5 " 	2057-PH2-12-UA-ND " H 2500 7050 50  0001 C CNN "Digikey#"
+F 5 "2057-PH2-12-UA-ND " H 2500 7050 50  0001 C CNN "Digikey#"
 F 6 "Connector Header Through Hole " H 2500 7050 50  0001 C CNN "Desc"
+F 7 "Adam" H 2500 7050 50  0001 C CNN "Manf"
 	1    2500 7050
 	1    0    0    1   
 $EndComp
@@ -868,7 +904,7 @@ F 2 "Package_DIP:SMDIP-6_W9.53mm" H 8500 1500 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/81646/vo14642a.pdf" H 8650 1700 50  0001 L CNN
 F 4 " 	Solid State SPST-NO (1 Form A) 6-SMD (0.300\", 7.62mm) " H 8700 1700 60  0001 C CNN "Desc"
 F 5 "Vishay" H 8700 1700 60  0001 C CNN "Manf"
-F 6 "VO14642AABTR" H 8700 1700 60  0001 C CNN "Manf#"
+F 6 "" H 8700 1700 60  0001 C CNN "Manf#"
 F 7 "VO14642AABCT-ND" H 8700 1700 60  0001 C CNN "Digikey#"
 	1    8700 1700
 	1    0    0    -1  
@@ -876,8 +912,6 @@ $EndComp
 NoConn ~ 9000 1700
 Wire Wire Line
 	8400 1800 8350 1800
-Wire Wire Line
-	8350 1800 8350 1850
 Text Notes 7850 6000 0    100  ~ 20
 SALIDAS DIGITALES CON \nRELES DE ESTADO SÓLIDO
 Wire Wire Line
@@ -897,7 +931,10 @@ P 5250 3550
 F 0 "J2" H 5120 3503 60  0000 R CNN
 F 1 "TB_1X3-PonchoPLC-rescue" H 5120 3397 60  0001 R CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x03_P5.00mm_Plug-in_PCB" H 5200 3600 60  0001 C CNN
-F 3 "1868733.pdf" H 5200 3600 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 5200 3600 60  0001 C CNN
+F 4 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 5250 3550 50  0001 C CNN "Desc"
+F 5 "A98063-ND" H 5250 3550 50  0001 C CNN "Digikey#"
+F 6 "Weco" H 5250 3550 50  0001 C CNN "Manf"
 	1    5250 3550
 	-1   0    0    1   
 $EndComp
@@ -913,7 +950,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 8080 1600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 8150 1600 30  0001 C CNN
 F 4 "" H 8150 1600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 8150 1600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 8150 1600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 8150 1600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 8150 1600 50  0001 C CNN "Manf"
 	1    8150 1600
 	0    1    1    0   
 $EndComp
@@ -929,7 +967,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 1750 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 1750 30  0001 C CNN
 F 4 "" H 7900 1750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 1750 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 7900 1750 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 7900 1750 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 7900 1750 50  0001 C CNN "Manf"
 	1    7900 1750
 	-1   0    0    1   
 $EndComp
@@ -944,11 +983,10 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 7900 1950 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 7900 1950 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 7900 1950 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 7900 1950 50  0001 C CNN "Manf"
 	1    7900 1950
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	7900 2050 7900 2200
 $Comp
 L Poncho-PLC7-rescue:SSR U6
 U 1 1 5DE41D95
@@ -959,7 +997,7 @@ F 2 "Package_DIP:SMDIP-6_W9.53mm" H 8500 2500 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/81646/vo14642a.pdf" H 8650 2700 50  0001 L CNN
 F 4 " 	Solid State SPST-NO (1 Form A) 6-SMD (0.300\", 7.62mm) " H 8700 2700 60  0001 C CNN "Desc"
 F 5 "Vishay" H 8700 2700 60  0001 C CNN "Manf"
-F 6 "VO14642AABTR" H 8700 2700 60  0001 C CNN "Manf#"
+F 6 "" H 8700 2700 60  0001 C CNN "Manf#"
 F 7 "VO14642AABCT-ND" H 8700 2700 60  0001 C CNN "Digikey#"
 	1    8700 2700
 	1    0    0    -1  
@@ -967,8 +1005,6 @@ $EndComp
 NoConn ~ 9000 2700
 Wire Wire Line
 	8400 2800 8350 2800
-Wire Wire Line
-	8350 2800 8350 2850
 $Comp
 L Poncho-PLC7-rescue:R R14
 U 1 1 5DE41DA6
@@ -979,7 +1015,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 8080 2600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 8150 2600 30  0001 C CNN
 F 4 "" H 8150 2600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 8150 2600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 8150 2600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 8150 2600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 8150 2600 50  0001 C CNN "Manf"
 	1    8150 2600
 	0    1    1    0   
 $EndComp
@@ -995,7 +1032,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 2750 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 2750 30  0000 C CNN
 F 4 "" H 7900 2750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 2750 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 7900 2750 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 7900 2750 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 7900 2750 50  0001 C CNN "Manf"
 	1    7900 2750
 	-1   0    0    1   
 $EndComp
@@ -1010,11 +1048,10 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 7900 2950 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 7900 2950 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 7900 2950 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 7900 2950 50  0001 C CNN "Manf"
 	1    7900 2950
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	7900 3050 7900 3200
 $Comp
 L Poncho-PLC7-rescue:SSR U7
 U 1 1 5DE4AE6A
@@ -1025,7 +1062,7 @@ F 2 "Package_DIP:SMDIP-6_W9.53mm" H 8500 3500 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/81646/vo14642a.pdf" H 8650 3700 50  0001 L CNN
 F 4 " 	Solid State SPST-NO (1 Form A) 6-SMD (0.300\", 7.62mm) " H 8700 3700 60  0001 C CNN "Desc"
 F 5 "Vishay" H 8700 3700 60  0001 C CNN "Manf"
-F 6 "VO14642AABTR" H 8700 3700 60  0001 C CNN "Manf#"
+F 6 "" H 8700 3700 60  0001 C CNN "Manf#"
 F 7 "VO14642AABCT-ND" H 8700 3700 60  0001 C CNN "Digikey#"
 	1    8700 3700
 	1    0    0    -1  
@@ -1033,8 +1070,6 @@ $EndComp
 NoConn ~ 9000 3700
 Wire Wire Line
 	8400 3800 8350 3800
-Wire Wire Line
-	8350 3800 8350 3850
 $Comp
 L Poncho-PLC7-rescue:R R15
 U 1 1 5DE4AE7B
@@ -1045,7 +1080,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 8080 3600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 8150 3600 30  0001 C CNN
 F 4 "" H 8150 3600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 8150 3600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 8150 3600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 8150 3600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 8150 3600 50  0001 C CNN "Manf"
 	1    8150 3600
 	0    1    1    0   
 $EndComp
@@ -1061,7 +1097,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 3750 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 3750 30  0000 C CNN
 F 4 "" H 7900 3750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 3750 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 7900 3750 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 7900 3750 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 7900 3750 50  0001 C CNN "Manf"
 	1    7900 3750
 	-1   0    0    1   
 $EndComp
@@ -1076,11 +1113,10 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 7900 3950 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 7900 3950 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 7900 3950 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 7900 3950 50  0001 C CNN "Manf"
 	1    7900 3950
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	7900 4050 7900 4200
 $Comp
 L Poncho-PLC7-rescue:SSR U8
 U 1 1 5DE5426D
@@ -1091,7 +1127,7 @@ F 2 "Package_DIP:SMDIP-6_W9.53mm" H 8500 4500 50  0001 L CIN
 F 3 "http://www.vishay.com/docs/81646/vo14642a.pdf" H 8650 4700 50  0001 L CNN
 F 4 " 	Solid State SPST-NO (1 Form A) 6-SMD (0.300\", 7.62mm) " H 8700 4700 60  0001 C CNN "Desc"
 F 5 "Vishay" H 8700 4700 60  0001 C CNN "Manf"
-F 6 "VO14642AABTR" H 8700 4700 60  0001 C CNN "Manf#"
+F 6 "" H 8700 4700 60  0001 C CNN "Manf#"
 F 7 "VO14642AABCT-ND" H 8700 4700 60  0001 C CNN "Digikey#"
 	1    8700 4700
 	1    0    0    -1  
@@ -1099,8 +1135,6 @@ $EndComp
 NoConn ~ 9000 4700
 Wire Wire Line
 	8400 4800 8350 4800
-Wire Wire Line
-	8350 4800 8350 4850
 $Comp
 L Poncho-PLC7-rescue:R R16
 U 1 1 5DE5427E
@@ -1111,7 +1145,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 8080 4600 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 8150 4600 30  0001 C CNN
 F 4 "" H 8150 4600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 8150 4600 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 8150 4600 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 8150 4600 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 8150 4600 50  0001 C CNN "Manf"
 	1    8150 4600
 	0    1    1    0   
 $EndComp
@@ -1127,7 +1162,8 @@ F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 4750 30  0001 C CNN
 F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 4750 30  0001 C CNN
 F 4 "" H 7900 4750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 4750 50  0001 C CNN "Desc"
-F 6 " 	CR0805-JW-331ELFTR-ND" H 7900 4750 50  0001 C CNN "Digikey#"
+F 6 "CR0805-JW-331ELFTR-ND" H 7900 4750 50  0001 C CNN "Digikey#"
+F 7 "Bourns" H 7900 4750 50  0001 C CNN "Manf"
 	1    7900 4750
 	-1   0    0    1   
 $EndComp
@@ -1142,11 +1178,10 @@ F 3 "https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S25
 F 4 "" H 7900 4950 60  0001 C CNN "Title"
 F 5 " 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) " H 7900 4950 50  0001 C CNN "Desc"
 F 6 "1080-1583-2-ND " H 7900 4950 50  0001 C CNN "Digikey#"
+F 7 "Everlight" H 7900 4950 50  0001 C CNN "Manf"
 	1    7900 4950
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	7900 5050 7900 5200
 Wire Wire Line
 	9900 3100 9250 3100
 Wire Wire Line
@@ -1208,91 +1243,25 @@ OUT7
 Text HLabel 7700 1600 0    50   Input ~ 0
 OUT4
 $Comp
-L power:GND #PWR0132
-U 1 1 5DBEF1A4
-P 7900 5200
-F 0 "#PWR0132" H 7900 4950 50  0001 C CNN
-F 1 "GND" H 8000 5100 50  0000 C CNN
-F 2 "" H 7900 5200 50  0001 C CNN
-F 3 "" H 7900 5200 50  0001 C CNN
-	1    7900 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0133
-U 1 1 5DBF8AEC
-P 7900 4200
-F 0 "#PWR0133" H 7900 3950 50  0001 C CNN
-F 1 "GND" H 8000 4100 50  0000 C CNN
-F 2 "" H 7900 4200 50  0001 C CNN
-F 3 "" H 7900 4200 50  0001 C CNN
-	1    7900 4200
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0134
-U 1 1 5DC02379
-P 7900 3200
-F 0 "#PWR0134" H 7900 2950 50  0001 C CNN
-F 1 "GND" H 8000 3100 50  0000 C CNN
-F 2 "" H 7900 3200 50  0001 C CNN
-F 3 "" H 7900 3200 50  0001 C CNN
-	1    7900 3200
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0135
-U 1 1 5DC0BB92
-P 7900 2200
-F 0 "#PWR0135" H 7900 1950 50  0001 C CNN
-F 1 "GND" H 8000 2100 50  0000 C CNN
-F 2 "" H 7900 2200 50  0001 C CNN
-F 3 "" H 7900 2200 50  0001 C CNN
-	1    7900 2200
-	1    0    0    -1  
-$EndComp
-$Comp
 L power:GND #PWR0136
 U 1 1 5DC16220
-P 8350 4850
-F 0 "#PWR0136" H 8350 4600 50  0001 C CNN
-F 1 "GND" H 8355 4677 50  0000 C CNN
-F 2 "" H 8350 4850 50  0001 C CNN
-F 3 "" H 8350 4850 50  0001 C CNN
-	1    8350 4850
+P 8350 4900
+F 0 "#PWR0136" H 8350 4650 50  0001 C CNN
+F 1 "GND" H 8355 4727 50  0000 C CNN
+F 2 "" H 8350 4900 50  0001 C CNN
+F 3 "" H 8350 4900 50  0001 C CNN
+	1    8350 4900
 	1    0    0    -1  
 $EndComp
 $Comp
 L power:GND #PWR0137
 U 1 1 5DC1FB1A
-P 8350 3850
-F 0 "#PWR0137" H 8350 3600 50  0001 C CNN
-F 1 "GND" H 8355 3677 50  0000 C CNN
-F 2 "" H 8350 3850 50  0001 C CNN
-F 3 "" H 8350 3850 50  0001 C CNN
-	1    8350 3850
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0138
-U 1 1 5DC294DF
-P 8350 2850
-F 0 "#PWR0138" H 8350 2600 50  0001 C CNN
-F 1 "GND" H 8355 2677 50  0000 C CNN
-F 2 "" H 8350 2850 50  0001 C CNN
-F 3 "" H 8350 2850 50  0001 C CNN
-	1    8350 2850
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GND #PWR0139
-U 1 1 5DC32E1A
-P 8350 1850
-F 0 "#PWR0139" H 8350 1600 50  0001 C CNN
-F 1 "GND" H 8355 1677 50  0000 C CNN
-F 2 "" H 8350 1850 50  0001 C CNN
-F 3 "" H 8350 1850 50  0001 C CNN
-	1    8350 1850
+P 8350 3900
+F 0 "#PWR0137" H 8350 3650 50  0001 C CNN
+F 1 "GND" H 8355 3727 50  0000 C CNN
+F 2 "" H 8350 3900 50  0001 C CNN
+F 3 "" H 8350 3900 50  0001 C CNN
+	1    8350 3900
 	1    0    0    -1  
 $EndComp
 Entry Wire Line
@@ -1365,8 +1334,11 @@ P 5250 2950
 F 0 "J1" H 5050 2950 60  0000 C CNN
 F 1 "TB_1X2-PonchoPLC-rescue" H 5300 2650 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 5200 3000 60  0001 C CNN
-F 3 "1868733.pdf" H 5200 3000 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 5200 3000 60  0001 C CNN
 F 4 "" H 5250 2950 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos" H 5250 2950 50  0001 C CNN "Desc"
+F 6 "A98062-ND " H 5250 2950 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 5250 2950 50  0001 C CNN "Manf"
 	1    5250 2950
 	-1   0    0    1   
 $EndComp
@@ -1375,10 +1347,13 @@ L Poncho-PLC7-rescue:TB_1X2 J3
 U 1 1 5DAD390E
 P 10250 2600
 F 0 "J3" H 10050 2600 60  0000 C CNN
-F 1 "TB_1X2" H 10300 2300 60  0001 C CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 10300 2300 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 10200 2650 60  0001 C CNN
-F 3 "1868733.pdf" H 10200 2650 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 10200 2650 60  0001 C CNN
 F 4 "" H 10250 2600 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 10250 2600 50  0001 C CNN "Desc"
+F 6 "A98063-ND" H 10250 2600 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 10250 2600 50  0001 C CNN "Manf"
 	1    10250 2600
 	-1   0    0    -1  
 $EndComp
@@ -1387,10 +1362,13 @@ L Poncho-PLC7-rescue:TB_1X2 J4
 U 1 1 5DADD9D9
 P 10250 3000
 F 0 "J4" H 10050 3000 60  0000 C CNN
-F 1 "TB_1X2" H 10300 2700 60  0001 C CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 10300 2700 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 10200 3050 60  0001 C CNN
-F 3 "1868733.pdf" H 10200 3050 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 10200 3050 60  0001 C CNN
 F 4 "" H 10250 3000 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 10250 3000 50  0001 C CNN "Desc"
+F 6 "A98063-ND" H 10250 3000 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 10250 3000 50  0001 C CNN "Manf"
 	1    10250 3000
 	-1   0    0    -1  
 $EndComp
@@ -1399,10 +1377,13 @@ L Poncho-PLC7-rescue:TB_1X2 J5
 U 1 1 5DAE790E
 P 10250 3400
 F 0 "J5" H 10050 3400 60  0000 C CNN
-F 1 "TB_1X2" H 10300 3100 60  0001 C CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 10300 3100 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 10200 3450 60  0001 C CNN
-F 3 "1868733.pdf" H 10200 3450 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 10200 3450 60  0001 C CNN
 F 4 "" H 10250 3400 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 10250 3400 50  0001 C CNN "Desc"
+F 6 "A98063-ND" H 10250 3400 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 10250 3400 50  0001 C CNN "Manf"
 	1    10250 3400
 	-1   0    0    -1  
 $EndComp
@@ -1411,54 +1392,18 @@ L Poncho-PLC7-rescue:TB_1X2 J6
 U 1 1 5DAF1ADD
 P 10250 3800
 F 0 "J6" H 10050 3800 60  0000 C CNN
-F 1 "TB_1X2" H 10300 3500 60  0001 C CNN
+F 1 "TB_1X3-PonchoPLC-rescue" H 10300 3500 60  0001 C CNN
 F 2 "Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB" H 10200 3850 60  0001 C CNN
-F 3 "1868733.pdf" H 10200 3850 60  0001 C CNN
+F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=282811&DocType=Customer+Drawing&DocLang=English" H 10200 3850 60  0001 C CNN
 F 4 "" H 10250 3800 60  0001 C CNN "Title"
+F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 10250 3800 50  0001 C CNN "Desc"
+F 6 "A98063-ND" H 10250 3800 50  0001 C CNN "Digikey#"
+F 7 "Weco" H 10250 3800 50  0001 C CNN "Manf"
 	1    10250 3800
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	1750 1800 1750 1950
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DDFD463
-P 1750 1950
-AR Path="/5DAD5FB7/5DDFD463" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DDFD463" Ref="#PWR0113"  Part="1" 
-F 0 "#PWR0113" H 1750 1750 50  0001 C CNN
-F 1 "GNDPWR" H 1754 1796 50  0000 C CNN
-F 2 "" H 1750 1900 50  0001 C CNN
-F 3 "" H 1750 1900 50  0001 C CNN
-	1    1750 1950
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE07CF6
-P 3650 1800
-AR Path="/5DAD5FB7/5DE07CF6" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE07CF6" Ref="#PWR0114"  Part="1" 
-F 0 "#PWR0114" H 3650 1600 50  0001 C CNN
-F 1 "GNDPWR" H 3750 1650 50  0000 C CNN
-F 2 "" H 3650 1750 50  0001 C CNN
-F 3 "" H 3650 1750 50  0001 C CNN
-	1    3650 1800
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE11DCA
-P 1700 1200
-AR Path="/5DAD5FB7/5DE11DCA" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE11DCA" Ref="#PWR0115"  Part="1" 
-F 0 "#PWR0115" H 1700 1000 50  0001 C CNN
-F 1 "GNDPWR" H 1704 1046 50  0000 C CNN
-F 2 "" H 1700 1150 50  0001 C CNN
-F 3 "" H 1700 1150 50  0001 C CNN
-	1    1700 1200
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1850 1150 1700 1150
 Wire Wire Line
@@ -1468,244 +1413,10 @@ Wire Wire Line
 	1700 1150 1550 1150
 Wire Wire Line
 	1850 2800 1700 2800
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE47CF2
-P 1700 2850
-AR Path="/5DAD5FB7/5DE47CF2" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE47CF2" Ref="#PWR0116"  Part="1" 
-F 0 "#PWR0116" H 1700 2650 50  0001 C CNN
-F 1 "GNDPWR" H 1704 2696 50  0000 C CNN
-F 2 "" H 1700 2800 50  0001 C CNN
-F 3 "" H 1700 2800 50  0001 C CNN
-	1    1700 2850
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE51ED9
-P 1750 3600
-AR Path="/5DAD5FB7/5DE51ED9" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE51ED9" Ref="#PWR0117"  Part="1" 
-F 0 "#PWR0117" H 1750 3400 50  0001 C CNN
-F 1 "GNDPWR" H 1754 3446 50  0000 C CNN
-F 2 "" H 1750 3550 50  0001 C CNN
-F 3 "" H 1750 3550 50  0001 C CNN
-	1    1750 3600
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE5D104
-P 3600 3150
-AR Path="/5DAD5FB7/5DE5D104" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE5D104" Ref="#PWR0118"  Part="1" 
-F 0 "#PWR0118" H 3600 2950 50  0001 C CNN
-F 1 "GNDPWR" H 3700 3000 50  0000 C CNN
-F 2 "" H 3600 3100 50  0001 C CNN
-F 3 "" H 3600 3100 50  0001 C CNN
-	1    3600 3150
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE678D5
-P 3650 3500
-AR Path="/5DAD5FB7/5DE678D5" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE678D5" Ref="#PWR0119"  Part="1" 
-F 0 "#PWR0119" H 3650 3300 50  0001 C CNN
-F 1 "GNDPWR" H 3654 3346 50  0000 C CNN
-F 2 "" H 3650 3450 50  0001 C CNN
-F 3 "" H 3650 3450 50  0001 C CNN
-	1    3650 3500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE71BBD
-P 3000 3300
-AR Path="/5DAD5FB7/5DE71BBD" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE71BBD" Ref="#PWR0120"  Part="1" 
-F 0 "#PWR0120" H 3000 3100 50  0001 C CNN
-F 1 "GNDPWR" H 2900 3150 50  0000 C CNN
-F 2 "" H 3000 3250 50  0001 C CNN
-F 3 "" H 3000 3250 50  0001 C CNN
-	1    3000 3300
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE7D3FB
-P 3000 1650
-AR Path="/5DAD5FB7/5DE7D3FB" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE7D3FB" Ref="#PWR0121"  Part="1" 
-F 0 "#PWR0121" H 3000 1450 50  0001 C CNN
-F 1 "GNDPWR" H 2900 1500 50  0000 C CNN
-F 2 "" H 3000 1600 50  0001 C CNN
-F 3 "" H 3000 1600 50  0001 C CNN
-	1    3000 1650
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE8834A
-P 3600 1500
-AR Path="/5DAD5FB7/5DE8834A" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE8834A" Ref="#PWR0122"  Part="1" 
-F 0 "#PWR0122" H 3600 1300 50  0001 C CNN
-F 1 "GNDPWR" H 3750 1350 50  0000 C CNN
-F 2 "" H 3600 1450 50  0001 C CNN
-F 3 "" H 3600 1450 50  0001 C CNN
-	1    3600 1500
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DE95613
-P 4900 3850
-AR Path="/5DAD5FB7/5DE95613" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DE95613" Ref="#PWR0123"  Part="1" 
-F 0 "#PWR0123" H 4900 3650 50  0001 C CNN
-F 1 "GNDPWR" H 4904 3696 50  0000 C CNN
-F 2 "" H 4900 3800 50  0001 C CNN
-F 3 "" H 4900 3800 50  0001 C CNN
-	1    4900 3850
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DEAB385
-P 3000 5000
-AR Path="/5DAD5FB7/5DEAB385" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DEAB385" Ref="#PWR0124"  Part="1" 
-F 0 "#PWR0124" H 3000 4800 50  0001 C CNN
-F 1 "GNDPWR" H 2900 4850 50  0000 C CNN
-F 2 "" H 3000 4950 50  0001 C CNN
-F 3 "" H 3000 4950 50  0001 C CNN
-	1    3000 5000
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DEB52BD
-P 3600 4850
-AR Path="/5DAD5FB7/5DEB52BD" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DEB52BD" Ref="#PWR0125"  Part="1" 
-F 0 "#PWR0125" H 3600 4650 50  0001 C CNN
-F 1 "GNDPWR" H 3700 4700 50  0000 C CNN
-F 2 "" H 3600 4800 50  0001 C CNN
-F 3 "" H 3600 4800 50  0001 C CNN
-	1    3600 4850
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DEBF02A
-P 3650 5200
-AR Path="/5DAD5FB7/5DEBF02A" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DEBF02A" Ref="#PWR0126"  Part="1" 
-F 0 "#PWR0126" H 3650 5000 50  0001 C CNN
-F 1 "GNDPWR" H 3654 5046 50  0000 C CNN
-F 2 "" H 3650 5150 50  0001 C CNN
-F 3 "" H 3650 5150 50  0001 C CNN
-	1    3650 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DEC9068
-P 1750 5300
-AR Path="/5DAD5FB7/5DEC9068" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DEC9068" Ref="#PWR0127"  Part="1" 
-F 0 "#PWR0127" H 1750 5100 50  0001 C CNN
-F 1 "GNDPWR" H 1754 5146 50  0000 C CNN
-F 2 "" H 1750 5250 50  0001 C CNN
-F 3 "" H 1750 5250 50  0001 C CNN
-	1    1750 5300
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1550 4500 1700 4500
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DEDD50E
-P 1700 4550
-AR Path="/5DAD5FB7/5DEDD50E" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DEDD50E" Ref="#PWR0128"  Part="1" 
-F 0 "#PWR0128" H 1700 4350 50  0001 C CNN
-F 1 "GNDPWR" H 1704 4396 50  0000 C CNN
-F 2 "" H 1700 4500 50  0001 C CNN
-F 3 "" H 1700 4500 50  0001 C CNN
-	1    1700 4550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DEE9F87
-P 3650 6900
-AR Path="/5DAD5FB7/5DEE9F87" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DEE9F87" Ref="#PWR0129"  Part="1" 
-F 0 "#PWR0129" H 3650 6700 50  0001 C CNN
-F 1 "GNDPWR" H 3654 6746 50  0000 C CNN
-F 2 "" H 3650 6850 50  0001 C CNN
-F 3 "" H 3650 6850 50  0001 C CNN
-	1    3650 6900
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DEF3C97
-P 3600 6550
-AR Path="/5DAD5FB7/5DEF3C97" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DEF3C97" Ref="#PWR0130"  Part="1" 
-F 0 "#PWR0130" H 3600 6350 50  0001 C CNN
-F 1 "GNDPWR" H 3700 6400 50  0000 C CNN
-F 2 "" H 3600 6500 50  0001 C CNN
-F 3 "" H 3600 6500 50  0001 C CNN
-	1    3600 6550
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DEFD833
-P 3000 6700
-AR Path="/5DAD5FB7/5DEFD833" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DEFD833" Ref="#PWR0131"  Part="1" 
-F 0 "#PWR0131" H 3000 6500 50  0001 C CNN
-F 1 "GNDPWR" H 2900 6550 50  0000 C CNN
-F 2 "" H 3000 6650 50  0001 C CNN
-F 3 "" H 3000 6650 50  0001 C CNN
-	1    3000 6700
-	1    0    0    -1  
-$EndComp
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DF073E3
-P 1750 7000
-AR Path="/5DAD5FB7/5DF073E3" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DF073E3" Ref="#PWR0140"  Part="1" 
-F 0 "#PWR0140" H 1750 6800 50  0001 C CNN
-F 1 "GNDPWR" H 1754 6846 50  0000 C CNN
-F 2 "" H 1750 6950 50  0001 C CNN
-F 3 "" H 1750 6950 50  0001 C CNN
-	1    1750 7000
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1550 6200 1700 6200
-$Comp
-L power:GNDPWR #PWR?
-U 1 1 5DF1B221
-P 1700 6250
-AR Path="/5DAD5FB7/5DF1B221" Ref="#PWR?"  Part="1" 
-AR Path="/5D85477B/5DF1B221" Ref="#PWR0141"  Part="1" 
-F 0 "#PWR0141" H 1700 6050 50  0001 C CNN
-F 1 "GNDPWR" H 1704 6096 50  0000 C CNN
-F 2 "" H 1700 6200 50  0001 C CNN
-F 3 "" H 1700 6200 50  0001 C CNN
-	1    1700 6250
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	1700 2850 1700 2800
 Connection ~ 1700 2800
@@ -1721,4 +1432,359 @@ Wire Wire Line
 Connection ~ 1700 6200
 Wire Wire Line
 	1700 6200 1850 6200
+Wire Wire Line
+	7900 5050 7900 5300
+Wire Wire Line
+	8350 4800 8350 4900
+Wire Wire Line
+	7900 4050 7900 4250
+Wire Wire Line
+	8350 3800 8350 3900
+Wire Wire Line
+	7900 3050 7900 3250
+Wire Wire Line
+	7900 2050 7900 2250
+Wire Wire Line
+	8350 1800 8350 1900
+$Comp
+L power:GND #PWR0139
+U 1 1 5DC32E1A
+P 8350 1900
+F 0 "#PWR0139" H 8350 1650 50  0001 C CNN
+F 1 "GND" H 8355 1727 50  0000 C CNN
+F 2 "" H 8350 1900 50  0001 C CNN
+F 3 "" H 8350 1900 50  0001 C CNN
+	1    8350 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0135
+U 1 1 5DC0BB92
+P 7900 2250
+F 0 "#PWR0135" H 7900 2000 50  0001 C CNN
+F 1 "GND" H 8000 2150 50  0000 C CNN
+F 2 "" H 7900 2250 50  0001 C CNN
+F 3 "" H 7900 2250 50  0001 C CNN
+	1    7900 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0134
+U 1 1 5DC02379
+P 7900 3250
+F 0 "#PWR0134" H 7900 3000 50  0001 C CNN
+F 1 "GND" H 8000 3150 50  0000 C CNN
+F 2 "" H 7900 3250 50  0001 C CNN
+F 3 "" H 7900 3250 50  0001 C CNN
+	1    7900 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0133
+U 1 1 5DBF8AEC
+P 7900 4250
+F 0 "#PWR0133" H 7900 4000 50  0001 C CNN
+F 1 "GND" H 8000 4150 50  0000 C CNN
+F 2 "" H 7900 4250 50  0001 C CNN
+F 3 "" H 7900 4250 50  0001 C CNN
+	1    7900 4250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0132
+U 1 1 5DBEF1A4
+P 7900 5300
+F 0 "#PWR0132" H 7900 5050 50  0001 C CNN
+F 1 "GND" H 8000 5200 50  0000 C CNN
+F 2 "" H 7900 5300 50  0001 C CNN
+F 3 "" H 7900 5300 50  0001 C CNN
+	1    7900 5300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8350 2800 8350 2900
+$Comp
+L power:GND #PWR0138
+U 1 1 5DC294DF
+P 8350 2900
+F 0 "#PWR0138" H 8350 2650 50  0001 C CNN
+F 1 "GND" H 8355 2727 50  0000 C CNN
+F 2 "" H 8350 2900 50  0001 C CNN
+F 3 "" H 8350 2900 50  0001 C CNN
+	1    8350 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0114
+U 1 1 5DD61861
+P 1700 1200
+AR Path="/5D85477B/5DD61861" Ref="#PWR0114"  Part="1" 
+AR Path="/5DAD5FB7/5DD61861" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0114" H 1700 950 50  0001 C CNN
+F 1 "GND" H 1800 1100 50  0000 C CNN
+F 2 "" H 1700 1200 50  0001 C CNN
+F 3 "" H 1700 1200 50  0001 C CNN
+	1    1700 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 5DD6C4AC
+P 1750 1950
+AR Path="/5D85477B/5DD6C4AC" Ref="#PWR0115"  Part="1" 
+AR Path="/5DAD5FB7/5DD6C4AC" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0115" H 1750 1700 50  0001 C CNN
+F 1 "GND" H 1850 1850 50  0000 C CNN
+F 2 "" H 1750 1950 50  0001 C CNN
+F 3 "" H 1750 1950 50  0001 C CNN
+	1    1750 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0116
+U 1 1 5DD77210
+P 3650 1800
+AR Path="/5D85477B/5DD77210" Ref="#PWR0116"  Part="1" 
+AR Path="/5DAD5FB7/5DD77210" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0116" H 3650 1550 50  0001 C CNN
+F 1 "GND" H 3750 1700 50  0000 C CNN
+F 2 "" H 3650 1800 50  0001 C CNN
+F 3 "" H 3650 1800 50  0001 C CNN
+	1    3650 1800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 5DD81F09
+P 3000 1650
+AR Path="/5D85477B/5DD81F09" Ref="#PWR0117"  Part="1" 
+AR Path="/5DAD5FB7/5DD81F09" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0117" H 3000 1400 50  0001 C CNN
+F 1 "GND" H 3100 1550 50  0000 C CNN
+F 2 "" H 3000 1650 50  0001 C CNN
+F 3 "" H 3000 1650 50  0001 C CNN
+	1    3000 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0118
+U 1 1 5DD8CBC4
+P 3600 1500
+AR Path="/5D85477B/5DD8CBC4" Ref="#PWR0118"  Part="1" 
+AR Path="/5DAD5FB7/5DD8CBC4" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0118" H 3600 1250 50  0001 C CNN
+F 1 "GND" H 3700 1400 50  0000 C CNN
+F 2 "" H 3600 1500 50  0001 C CNN
+F 3 "" H 3600 1500 50  0001 C CNN
+	1    3600 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0119
+U 1 1 5DD988EF
+P 1700 2850
+AR Path="/5D85477B/5DD988EF" Ref="#PWR0119"  Part="1" 
+AR Path="/5DAD5FB7/5DD988EF" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0119" H 1700 2600 50  0001 C CNN
+F 1 "GND" H 1800 2750 50  0000 C CNN
+F 2 "" H 1700 2850 50  0001 C CNN
+F 3 "" H 1700 2850 50  0001 C CNN
+	1    1700 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0120
+U 1 1 5DDA3599
+P 1750 3600
+AR Path="/5D85477B/5DDA3599" Ref="#PWR0120"  Part="1" 
+AR Path="/5DAD5FB7/5DDA3599" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0120" H 1750 3350 50  0001 C CNN
+F 1 "GND" H 1850 3500 50  0000 C CNN
+F 2 "" H 1750 3600 50  0001 C CNN
+F 3 "" H 1750 3600 50  0001 C CNN
+	1    1750 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0121
+U 1 1 5DDAE23A
+P 3650 3500
+AR Path="/5D85477B/5DDAE23A" Ref="#PWR0121"  Part="1" 
+AR Path="/5DAD5FB7/5DDAE23A" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0121" H 3650 3250 50  0001 C CNN
+F 1 "GND" H 3750 3400 50  0000 C CNN
+F 2 "" H 3650 3500 50  0001 C CNN
+F 3 "" H 3650 3500 50  0001 C CNN
+	1    3650 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0122
+U 1 1 5DDB945E
+P 3000 3300
+AR Path="/5D85477B/5DDB945E" Ref="#PWR0122"  Part="1" 
+AR Path="/5DAD5FB7/5DDB945E" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0122" H 3000 3050 50  0001 C CNN
+F 1 "GND" H 3100 3200 50  0000 C CNN
+F 2 "" H 3000 3300 50  0001 C CNN
+F 3 "" H 3000 3300 50  0001 C CNN
+	1    3000 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0123
+U 1 1 5DDC406B
+P 3600 3150
+AR Path="/5D85477B/5DDC406B" Ref="#PWR0123"  Part="1" 
+AR Path="/5DAD5FB7/5DDC406B" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0123" H 3600 2900 50  0001 C CNN
+F 1 "GND" H 3700 3050 50  0000 C CNN
+F 2 "" H 3600 3150 50  0001 C CNN
+F 3 "" H 3600 3150 50  0001 C CNN
+	1    3600 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0124
+U 1 1 5DDCF19D
+P 1700 4550
+AR Path="/5D85477B/5DDCF19D" Ref="#PWR0124"  Part="1" 
+AR Path="/5DAD5FB7/5DDCF19D" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0124" H 1700 4300 50  0001 C CNN
+F 1 "GND" H 1800 4450 50  0000 C CNN
+F 2 "" H 1700 4550 50  0001 C CNN
+F 3 "" H 1700 4550 50  0001 C CNN
+	1    1700 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0125
+U 1 1 5DDD9EAA
+P 1750 5300
+AR Path="/5D85477B/5DDD9EAA" Ref="#PWR0125"  Part="1" 
+AR Path="/5DAD5FB7/5DDD9EAA" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0125" H 1750 5050 50  0001 C CNN
+F 1 "GND" H 1850 5200 50  0000 C CNN
+F 2 "" H 1750 5300 50  0001 C CNN
+F 3 "" H 1750 5300 50  0001 C CNN
+	1    1750 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0126
+U 1 1 5DDE4BEE
+P 3600 4850
+AR Path="/5D85477B/5DDE4BEE" Ref="#PWR0126"  Part="1" 
+AR Path="/5DAD5FB7/5DDE4BEE" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0126" H 3600 4600 50  0001 C CNN
+F 1 "GND" H 3700 4750 50  0000 C CNN
+F 2 "" H 3600 4850 50  0001 C CNN
+F 3 "" H 3600 4850 50  0001 C CNN
+	1    3600 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0127
+U 1 1 5DDEF948
+P 3650 5200
+AR Path="/5D85477B/5DDEF948" Ref="#PWR0127"  Part="1" 
+AR Path="/5DAD5FB7/5DDEF948" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0127" H 3650 4950 50  0001 C CNN
+F 1 "GND" H 3750 5100 50  0000 C CNN
+F 2 "" H 3650 5200 50  0001 C CNN
+F 3 "" H 3650 5200 50  0001 C CNN
+	1    3650 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0128
+U 1 1 5DDFA757
+P 3000 5000
+AR Path="/5D85477B/5DDFA757" Ref="#PWR0128"  Part="1" 
+AR Path="/5DAD5FB7/5DDFA757" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0128" H 3000 4750 50  0001 C CNN
+F 1 "GND" H 3100 4900 50  0000 C CNN
+F 2 "" H 3000 5000 50  0001 C CNN
+F 3 "" H 3000 5000 50  0001 C CNN
+	1    3000 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0129
+U 1 1 5DE06200
+P 1700 6250
+AR Path="/5D85477B/5DE06200" Ref="#PWR0129"  Part="1" 
+AR Path="/5DAD5FB7/5DE06200" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0129" H 1700 6000 50  0001 C CNN
+F 1 "GND" H 1800 6150 50  0000 C CNN
+F 2 "" H 1700 6250 50  0001 C CNN
+F 3 "" H 1700 6250 50  0001 C CNN
+	1    1700 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0130
+U 1 1 5DE10DE6
+P 1750 7000
+AR Path="/5D85477B/5DE10DE6" Ref="#PWR0130"  Part="1" 
+AR Path="/5DAD5FB7/5DE10DE6" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0130" H 1750 6750 50  0001 C CNN
+F 1 "GND" H 1850 6900 50  0000 C CNN
+F 2 "" H 1750 7000 50  0001 C CNN
+F 3 "" H 1750 7000 50  0001 C CNN
+	1    1750 7000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0131
+U 1 1 5DE1BA4E
+P 3650 6900
+AR Path="/5D85477B/5DE1BA4E" Ref="#PWR0131"  Part="1" 
+AR Path="/5DAD5FB7/5DE1BA4E" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0131" H 3650 6650 50  0001 C CNN
+F 1 "GND" H 3750 6800 50  0000 C CNN
+F 2 "" H 3650 6900 50  0001 C CNN
+F 3 "" H 3650 6900 50  0001 C CNN
+	1    3650 6900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0140
+U 1 1 5DE2664A
+P 3600 6550
+AR Path="/5D85477B/5DE2664A" Ref="#PWR0140"  Part="1" 
+AR Path="/5DAD5FB7/5DE2664A" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0140" H 3600 6300 50  0001 C CNN
+F 1 "GND" H 3700 6450 50  0000 C CNN
+F 2 "" H 3600 6550 50  0001 C CNN
+F 3 "" H 3600 6550 50  0001 C CNN
+	1    3600 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0141
+U 1 1 5DE31197
+P 3000 6700
+AR Path="/5D85477B/5DE31197" Ref="#PWR0141"  Part="1" 
+AR Path="/5DAD5FB7/5DE31197" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0141" H 3000 6450 50  0001 C CNN
+F 1 "GND" H 3100 6600 50  0000 C CNN
+F 2 "" H 3000 6700 50  0001 C CNN
+F 3 "" H 3000 6700 50  0001 C CNN
+	1    3000 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0143
+U 1 1 5DE473BA
+P 4900 3850
+AR Path="/5D85477B/5DE473BA" Ref="#PWR0143"  Part="1" 
+AR Path="/5DAD5FB7/5DE473BA" Ref="#PWR?"  Part="1" 
+F 0 "#PWR0143" H 4900 3600 50  0001 C CNN
+F 1 "GND" H 5000 3750 50  0000 C CNN
+F 2 "" H 4900 3850 50  0001 C CNN
+F 3 "" H 4900 3850 50  0001 C CNN
+	1    4900 3850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

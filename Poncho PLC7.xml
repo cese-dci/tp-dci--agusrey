@@ -1,0 +1,2299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/agus/Documentos/BORRAR/Poncho PLC7/Poncho PLC7.sch</source>
+    <date>mié 30 oct 2019 22:17:21 -03</date>
+    <tool>Eeschema 5.1.4-e60b266~84~ubuntu18.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>PONCHO PLC7 (PLC PARA CIAA7)</title>
+        <company>Proyecto CIAA - COMPUTADORA INDUSTRIAL ABIERTA ARGENTINA</company>
+        <rev>2</rev>
+        <date>2019-10-17</date>
+        <source>Poncho PLC7.sch</source>
+        <comment number="1" value="Primer Revisor: Esteban Volentini"/>
+        <comment number="2" value="Revisor Final: Martín Ribelotta"/>
+        <comment number="3" value="Docente/Revisor: Diego Brengi"/>
+        <comment number="4" value="Diseñador: Agustín Rey - Licencia BSD"/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/BaseCIAA7/" tstamps="/5DAD5FB7/">
+      <title_block>
+        <title>PONCHO PLC7 (PLC PARA CIAA7)</title>
+        <company>Proyecto CIAA - COMPUTADORA INDUSTRIAL ABIERTA ARGENTINA</company>
+        <rev>2</rev>
+        <date>2019-10-17</date>
+        <source>BaseCIAA7.sch</source>
+        <comment number="1" value="Primer Revisor: Esteban Volentini"/>
+        <comment number="2" value="Revisor Final: Martín Ribelotta"/>
+        <comment number="3" value="Docente/Revisor: Diego Brengi"/>
+        <comment number="4" value="Diseñador: Agustín Rey"/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Salidas/" tstamps="/5D85477B/">
+      <title_block>
+        <title>PONCHO PLC7 (PLC PARA CIAA7)</title>
+        <company>Proyecto CIAA - COMPUTADORA INDUSTRIAL ABIERTA ARGENTINA</company>
+        <rev>2</rev>
+        <date>2019-10-17</date>
+        <source>Salidas.sch</source>
+        <comment number="1" value="Primer Revisor: Esteban Volentini"/>
+        <comment number="2" value="Revisor Final: Martín Ribelotta"/>
+        <comment number="3" value="Docente/Revisor: Diego Brengi"/>
+        <comment number="4" value="Diseñador: Agustín Rey"/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Entradas/" tstamps="/5D8546B3/">
+      <title_block>
+        <title>PONCHO PLC7 (PLC PARA CIAA7)</title>
+        <company>Proyecto CIAA - COMPUTADORA INDUSTRIAL ABIERTA ARGENTINA</company>
+        <rev>2</rev>
+        <date>2019-10-17</date>
+        <source>Entradas.sch</source>
+        <comment number="1" value="Primer Revisor: Esteban Volentini"/>
+        <comment number="2" value="Revisor Final: Martín Ribelotta"/>
+        <comment number="3" value="Docente/Revisor: Diego Brengi"/>
+        <comment number="4" value="Diseñador: Agustín Rey"/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Mounting Hole</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DB5CDCA</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Mounting Hole</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DB5CDD0</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Mounting Hole</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DB5CDD6</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Conn_02x12_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">2x12 Pin header - 2.54mm</field>
+        <field name="Digikey#">2057-PH2-12-UA-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x12_Odd_Even" description="Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DB5CE78</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">2x5 Pin header - 2.54mm</field>
+        <field name="Digikey#">2057-PH2-12-UA-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DB5CEA8</tstamp>
+    </comp>
+    <comp ref="J18">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">2x5 Pin header - 2.54mm</field>
+        <field name="Digikey#">2057-PH2-12-UA-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DA9C3EC</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_02x12_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">2x12 Pin header - 2.54mm</field>
+        <field name="Digikey#">2057-PH2-12-UA-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x12_Odd_Even" description="Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5D9CF029</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_02x20_Counter_Clockwise</value>
+      <footprint>Poncho-PLC:TX24-40R-LT-H1E</footprint>
+      <datasheet>https://www.jae.com/direct/topics/topics_file_download/?topics_id=66755&amp;ext_no=06&amp;index=0&amp;_lang=en</datasheet>
+      <fields>
+        <field name="Desc">40 Position Connector Receptacle, Outer Shroud Contacts Through Hole, Right Angle Gold</field>
+        <field name="Digikey#">670-1386-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=670-1386-ND</field>
+        <field name="Manf">Jae</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise" description="Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5D98F518</tstamp>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Mounting Hole</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DAF7EBE</tstamp>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Mounting Hole</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DAF7ECA</tstamp>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Mounting Hole</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DAF7ED0</tstamp>
+    </comp>
+    <comp ref="FID3">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_0.5mm_Mask1mm</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Fiducial</field>
+      </fields>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DAAFA6E</tstamp>
+    </comp>
+    <comp ref="FID1">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_0.5mm_Mask1mm</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Fiducial</field>
+      </fields>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DAC1CE6</tstamp>
+    </comp>
+    <comp ref="FID2">
+      <value>Fiducial</value>
+      <footprint>Fiducial:Fiducial_0.5mm_Mask1mm</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Fiducial</field>
+      </fields>
+      <libsource lib="Mechanical" part="Fiducial" description="Fiducial Marker"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DAC1CEC</tstamp>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Mounting Hole</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DAF7EC4</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_Pad_Via</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="Desc">Mounting Hole</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DB5CDC4</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_02x12_Odd_Even</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">2x12 Pin header - 2.54mm</field>
+        <field name="Digikey#">2057-PH2-12-UA-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x12_Odd_Even" description="Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/BaseCIAA7/" tstamps="/5DAD5FB7/"/>
+      <tstamp>5DB5CE6F</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-104ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-104ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>52CA48D5</tstamp>
+    </comp>
+    <comp ref="TH1">
+      <value>PTS12066V100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_4397_PTS1206_Series.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave </field>
+        <field name="Digikey#"> 283-3142-1-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=%20283-3142-1-ND%20</field>
+        <field name="Manf">Cooper</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="THERMISTOR" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>52CA51B1</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>52E0878B</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) </field>
+        <field name="Digikey#">1080-1583-2-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20</field>
+        <field name="Manf">Everlight</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="LED" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>52E08791</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>MCP1416</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf</datasheet>
+      <fields>
+        <field name="Desc">Low-Side Gate Driver IC Non-Inverting SOT-23-5 </field>
+        <field name="Digikey#">MCP1416T-E/OTTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=MCP1416T-E%2FOTTR-ND%20</field>
+        <field name="Manf">Microchip</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="MCP1416" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>53F13D24</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>FQT13N06L</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf</datasheet>
+      <fields>
+        <field name="Desc">N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4</field>
+        <field name="Digikey#"> FQT13N06LTFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=%20FQT13N06LTFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="FQT13N06L" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>53F1AA62</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-104ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-104ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D3641A</tstamp>
+    </comp>
+    <comp ref="TH2">
+      <value>PTS12066V100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_4397_PTS1206_Series.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave </field>
+        <field name="Digikey#"> 283-3142-1-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=%20283-3142-1-ND%20</field>
+        <field name="Manf">Cooper</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="THERMISTOR" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36428</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D3642F</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) </field>
+        <field name="Digikey#">1080-1583-2-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20</field>
+        <field name="Manf">Everlight</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="LED" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36436</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>MCP1416</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf</datasheet>
+      <fields>
+        <field name="Desc">Low-Side Gate Driver IC Non-Inverting SOT-23-5 </field>
+        <field name="Digikey#">MCP1416T-E/OTTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=MCP1416T-E%2FOTTR-ND%20</field>
+        <field name="Manf">Microchip</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="MCP1416" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D3643D</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>FQT13N06L</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf</datasheet>
+      <fields>
+        <field name="Desc">N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4</field>
+        <field name="Digikey#"> FQT13N06LTFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=%20FQT13N06LTFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="FQT13N06L" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36470</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-104ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-104ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B00</tstamp>
+    </comp>
+    <comp ref="TH3">
+      <value>PTS12066V100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_4397_PTS1206_Series.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave </field>
+        <field name="Digikey#"> 283-3142-1-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=%20283-3142-1-ND%20</field>
+        <field name="Manf">Cooper</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="THERMISTOR" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B0E</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B15</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) </field>
+        <field name="Digikey#">1080-1583-2-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20</field>
+        <field name="Manf">Everlight</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="LED" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B1C</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>MCP1416</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf</datasheet>
+      <fields>
+        <field name="Desc">Low-Side Gate Driver IC Non-Inverting SOT-23-5 </field>
+        <field name="Digikey#">MCP1416T-E/OTTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=MCP1416T-E%2FOTTR-ND%20</field>
+        <field name="Manf">Microchip</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="MCP1416" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B23</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>FQT13N06L</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf</datasheet>
+      <fields>
+        <field name="Desc">N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4</field>
+        <field name="Digikey#"> FQT13N06LTFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=%20FQT13N06LTFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="FQT13N06L" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B56</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-104ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-104ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B7F</tstamp>
+    </comp>
+    <comp ref="TH4">
+      <value>PTS12066V100</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <datasheet>http://www.cooperindustries.com/content/dam/public/bussmann/Electronics/Resources/product-datasheets/Bus_Elx_DS_4397_PTS1206_Series.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Polymeric PTC Resettable Fuse 6V 1A Ih Surface Mount 1206 (3216 Metric), Concave </field>
+        <field name="Digikey#"> 283-3142-1-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=%20283-3142-1-ND%20</field>
+        <field name="Manf">Cooper</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="THERMISTOR" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B8D</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B94</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) </field>
+        <field name="Digikey#">1080-1583-2-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20</field>
+        <field name="Manf">Everlight</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="LED" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36B9B</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>MCP1416</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20002092G.pdf</datasheet>
+      <fields>
+        <field name="Desc">Low-Side Gate Driver IC Non-Inverting SOT-23-5 </field>
+        <field name="Digikey#">MCP1416T-E/OTTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=MCP1416T-E%2FOTTR-ND%20</field>
+        <field name="Manf">Microchip</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="MCP1416" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36BA2</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>FQT13N06L</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/FQT13N06L-D.pdf</datasheet>
+      <fields>
+        <field name="Desc">N-Channel 60V 2.8A (Tc) 2.1W (Tc) Surface Mount SOT-223-4</field>
+        <field name="Digikey#"> FQT13N06LTFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=%20FQT13N06LTFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="FQT13N06L" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D36BD5</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc">0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) </field>
+        <field name="Digikey#">1276-1007-2-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1276-1007-2-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DD9124</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) </field>
+        <field name="Digikey#">CL31B104KBCNNNL-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DD912A</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc">0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) </field>
+        <field name="Digikey#">1276-1007-2-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1276-1007-2-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DDABC5</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) </field>
+        <field name="Digikey#">CL31B104KBCNNNL-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DDABCC</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc">0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) </field>
+        <field name="Digikey#">1276-1007-2-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1276-1007-2-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DDB667</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) </field>
+        <field name="Digikey#">CL31B104KBCNNNL-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DDB66E</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc">0.1µF -20%, +80% 50V Ceramic Capacitor Y5V (F) 0805 (2012 Metric) </field>
+        <field name="Digikey#">1276-1007-2-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1276-1007-2-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DDBDCB</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) </field>
+        <field name="Digikey#">CL31B104KBCNNNL-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DDBDD2</tstamp>
+    </comp>
+    <comp ref="JP2">
+      <value>Jumper</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">Connector Header Through Hole </field>
+        <field name="Digikey#">2057-PH2-12-UA-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="Jumper" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DDC953</tstamp>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">Connector Header Through Hole </field>
+        <field name="Digikey#">2057-PH2-12-UA-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="Jumper" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DE30B8</tstamp>
+    </comp>
+    <comp ref="JP3">
+      <value>Jumper</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">Connector Header Through Hole </field>
+        <field name="Digikey#">2057-PH2-12-UA-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="Jumper" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DE4B82</tstamp>
+    </comp>
+    <comp ref="JP4">
+      <value>Jumper</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf</datasheet>
+      <fields>
+        <field name="Desc">Connector Header Through Hole </field>
+        <field name="Digikey#">2057-PH2-12-UA-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND</field>
+        <field name="Manf">Adam</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="Jumper" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56DE54CC</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>VO14642AABTR</value>
+      <footprint>Package_DIP:SMDIP-6_W9.53mm</footprint>
+      <datasheet>http://www.vishay.com/docs/81646/vo14642a.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Solid State SPST-NO (1 Form A) 6-SMD (0.300", 7.62mm) </field>
+        <field name="Digikey#">VO14642AABCT-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=VO14642AABCT-ND</field>
+        <field name="Manf">Vishay</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="SSR" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5D8EA639</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>TB_1X3-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x03_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos</field>
+        <field name="Digikey#">A98063-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98063-ND</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X3" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DC46C0D</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DCD99D6</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DDF159D</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) </field>
+        <field name="Digikey#">1080-1583-2-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20</field>
+        <field name="Manf">Everlight</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="LED" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DDF15A4</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>VO14642AABTR</value>
+      <footprint>Package_DIP:SMDIP-6_W9.53mm</footprint>
+      <datasheet>http://www.vishay.com/docs/81646/vo14642a.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Solid State SPST-NO (1 Form A) 6-SMD (0.300", 7.62mm) </field>
+        <field name="Digikey#">VO14642AABCT-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=VO14642AABCT-ND</field>
+        <field name="Manf">Vishay</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="SSR" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE41D95</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE41DA6</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE41DAF</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) </field>
+        <field name="Digikey#">1080-1583-2-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20</field>
+        <field name="Manf">Everlight</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="LED" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE41DB6</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>VO14642AABTR</value>
+      <footprint>Package_DIP:SMDIP-6_W9.53mm</footprint>
+      <datasheet>http://www.vishay.com/docs/81646/vo14642a.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Solid State SPST-NO (1 Form A) 6-SMD (0.300", 7.62mm) </field>
+        <field name="Digikey#">VO14642AABCT-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=VO14642AABCT-ND</field>
+        <field name="Manf">Vishay</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="SSR" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE4AE6A</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE4AE7B</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE4AE84</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) </field>
+        <field name="Digikey#">1080-1583-2-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20</field>
+        <field name="Manf">Everlight</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="LED" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE4AE8B</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>VO14642AABTR</value>
+      <footprint>Package_DIP:SMDIP-6_W9.53mm</footprint>
+      <datasheet>http://www.vishay.com/docs/81646/vo14642a.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Solid State SPST-NO (1 Form A) 6-SMD (0.300", 7.62mm) </field>
+        <field name="Digikey#">VO14642AABCT-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=VO14642AABCT-ND</field>
+        <field name="Manf">Vishay</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="SSR" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE5426D</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE5427E</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-331ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-331ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE54287</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED red</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	Red LED Indication - Discrete 2.1V 0603 (1608 Metric) </field>
+        <field name="Digikey#">1080-1583-2-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=1080-1583-2-ND%20</field>
+        <field name="Manf">Everlight</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="LED" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DE5428E</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>TB_1X2-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos</field>
+        <field name="Digikey#">A98062-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98062-ND%20</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X2" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>56D45CFD</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>TB_1X3-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos</field>
+        <field name="Digikey#">A98063-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98063-ND</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X2" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DAD390E</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>TB_1X3-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos</field>
+        <field name="Digikey#">A98063-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98063-ND</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X2" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DADD9D9</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>TB_1X3-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos</field>
+        <field name="Digikey#">A98063-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98063-ND</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X2" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DAE790E</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>TB_1X3-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos</field>
+        <field name="Digikey#">A98063-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98063-ND</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X2" description=""/>
+      <sheetpath names="/Salidas/" tstamps="/5D85477B/"/>
+      <tstamp>5DAF1ADD</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-622ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFDD5B5</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-272ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFDD5BD</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-622ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFE1A5A</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-272ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFE1A61</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-622ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFE81FE</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-272ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFE8205</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-622ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFE8211</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-272ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFE8218</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-622ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFEE45E</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-272ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFEE465</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-622ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFEE471</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-272ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFEE478</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-622ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFEE484</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-272ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFEE48B</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>6.2K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-622ELFTR-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFEE497</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>2.7K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</datasheet>
+      <fields>
+        <field name="Desc">1/8W Chip Resistor 0805 </field>
+        <field name="Digikey#">CR0805-JW-272ELFTR-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20</field>
+        <field name="Manf">Bourns</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="R" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DFEE49E</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) </field>
+        <field name="Digikey#">CL31B104KBCNNNL-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND</field>
+        <field name="Manf">Samsung</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="C_MINI" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5E02F832</tstamp>
+    </comp>
+    <comp ref="JE3">
+      <value>TB_1X2-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos</field>
+        <field name="Digikey#">A98062-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98062-ND%20</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X2" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DB19AB2</tstamp>
+    </comp>
+    <comp ref="JE4">
+      <value>TB_1X3-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x03_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos</field>
+        <field name="Digikey#">A98063-ND</field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98063-ND</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X3" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DAC40FC</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>SI8380P-IU</value>
+      <footprint>Package_SO:QSOP-20_3.9x8.7mm_P0.635mm</footprint>
+      <datasheet>https://www.silabs.com/documents/public/data-sheets/Si838x-DataSheet.pdf</datasheet>
+      <fields>
+        <field name="Desc"> 	General Purpose Digital Isolator 2500Vrms 8 Channel 2Mbps 200kV/µs CMTI 20-SSOP (0.154", 3.90mm Width) </field>
+        <field name="Digikey#">336-3618-5-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=336-3618-5-ND%20</field>
+        <field name="Manf">Silabs</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="SI8380P-IU" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5D9F834D</tstamp>
+    </comp>
+    <comp ref="JE2">
+      <value>TB_1X2-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos</field>
+        <field name="Digikey#">A98062-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98062-ND%20</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X2" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DB159A8</tstamp>
+    </comp>
+    <comp ref="JE1">
+      <value>TB_1X2-PonchoPLC-rescue</value>
+      <footprint>Poncho-PLC:TerminalBlock_WECO_120-M-311_1x02_P5.00mm_Plug-in_PCB</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=282811&amp;DocType=Customer+Drawing&amp;DocLang=English</datasheet>
+      <fields>
+        <field name="Desc">Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos</field>
+        <field name="Digikey#">A98062-ND </field>
+        <field name="DigikeyPage">https://www.digikey.com/products/en?keywords=A98062-ND%20</field>
+        <field name="Manf">Weco</field>
+      </fields>
+      <libsource lib="Poncho-PLC7-rescue" part="TB_1X2" description=""/>
+      <sheetpath names="/Entradas/" tstamps="/5D8546B3/"/>
+      <tstamp>5DB116F4</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x12_Odd_Even">
+      <description>Generic connector, double row, 02x12, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x12_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x20_Counter_Clockwise">
+      <description>Generic connector, double row, 02x20, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x20_Counter_Clockwise</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+        <pin num="29" name="Pin_29" type="passive"/>
+        <pin num="30" name="Pin_30" type="passive"/>
+        <pin num="31" name="Pin_31" type="passive"/>
+        <pin num="32" name="Pin_32" type="passive"/>
+        <pin num="33" name="Pin_33" type="passive"/>
+        <pin num="34" name="Pin_34" type="passive"/>
+        <pin num="35" name="Pin_35" type="passive"/>
+        <pin num="36" name="Pin_36" type="passive"/>
+        <pin num="37" name="Pin_37" type="passive"/>
+        <pin num="38" name="Pin_38" type="passive"/>
+        <pin num="39" name="Pin_39" type="passive"/>
+        <pin num="40" name="Pin_40" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="Fiducial">
+      <description>Fiducial Marker</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Fiducial*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">Fiducial</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="C_MINI">
+      <footprints>
+        <fp>C*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_MINI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="FQT13N06L">
+      <footprints>
+        <fp>TO220*</fp>
+        <fp>SOT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">FQT13N06L</field>
+        <field name="Footprint">SOT223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+        <pin num="4" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="Jumper">
+      <footprints>
+        <fp>HEADER*</fp>
+        <fp>JUMPER*</fp>
+        <fp>SIL*</fp>
+        <fp>PIN*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="LED">
+      <footprints>
+        <fp>LED*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="MCP1416">
+      <footprints>
+        <fp>SOT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP1416</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="IN" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="OUT" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="R">
+      <footprints>
+        <fp>R*</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="SI8380P-IU">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SI8380P-IU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1/AH1" type="input"/>
+        <pin num="2" name="A2/AH2" type="input"/>
+        <pin num="3" name="A3/AH3" type="input"/>
+        <pin num="4" name="A4/AH4" type="input"/>
+        <pin num="5" name="COM" type="input"/>
+        <pin num="6" name="COM" type="input"/>
+        <pin num="7" name="A5/AH5" type="input"/>
+        <pin num="8" name="A6/AH6" type="input"/>
+        <pin num="9" name="A7/AH7" type="input"/>
+        <pin num="10" name="A8/AH8" type="input"/>
+        <pin num="11" name="B8/BH8" type="output"/>
+        <pin num="12" name="B7/BH7" type="output"/>
+        <pin num="13" name="B6/BH6" type="output"/>
+        <pin num="14" name="B5/BH5" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="VCC" type="power_in"/>
+        <pin num="17" name="B4/BH4" type="output"/>
+        <pin num="18" name="B3/BH3" type="output"/>
+        <pin num="19" name="B2/BH2" type="output"/>
+        <pin num="20" name="B1/BH1" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="SSR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SSR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="TB_1X2">
+      <footprints>
+        <fp>BORNERA*</fp>
+        <fp>TB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TB_1X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="TB_1X3">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TB_1X3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Poncho-PLC7-rescue" part="THERMISTOR">
+      <footprints>
+        <fp>PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">THERMISTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/library/Mechanical.lib</uri>
+    </library>
+    <library logical="Poncho-PLC7-rescue">
+      <uri>/home/agus/Documentos/BORRAR/Poncho PLC7/Poncho PLC7-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/BaseCIAA7/IN5">
+      <node ref="J7" pin="12"/>
+      <node ref="U9" pin="13"/>
+    </net>
+    <net code="2" name="/BaseCIAA7/OUT1">
+      <node ref="J7" pin="15"/>
+      <node ref="R2" pin="1"/>
+      <node ref="JP2" pin="1"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="3" name="/BaseCIAA7/OUT2">
+      <node ref="J7" pin="14"/>
+      <node ref="U3" pin="3"/>
+      <node ref="JP3" pin="1"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="4" name="/BaseCIAA7/OUT3">
+      <node ref="R4" pin="1"/>
+      <node ref="JP4" pin="1"/>
+      <node ref="J7" pin="13"/>
+      <node ref="U4" pin="3"/>
+    </net>
+    <net code="5" name="/BaseCIAA7/OUT4">
+      <node ref="J7" pin="20"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="6" name="/BaseCIAA7/OUT5">
+      <node ref="R14" pin="2"/>
+      <node ref="J7" pin="19"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="7" name="/BaseCIAA7/OUT6">
+      <node ref="R11" pin="2"/>
+      <node ref="R15" pin="2"/>
+      <node ref="J7" pin="18"/>
+    </net>
+    <net code="8" name="/BaseCIAA7/IN0">
+      <node ref="J7" pin="7"/>
+      <node ref="U9" pin="20"/>
+    </net>
+    <net code="9" name="/BaseCIAA7/IN1">
+      <node ref="J7" pin="8"/>
+      <node ref="U9" pin="19"/>
+    </net>
+    <net code="10" name="/BaseCIAA7/IN2">
+      <node ref="J7" pin="9"/>
+      <node ref="U9" pin="18"/>
+    </net>
+    <net code="11" name="/BaseCIAA7/IN3">
+      <node ref="J7" pin="10"/>
+      <node ref="U9" pin="17"/>
+    </net>
+    <net code="12" name="/BaseCIAA7/IN4">
+      <node ref="U9" pin="14"/>
+      <node ref="J7" pin="11"/>
+    </net>
+    <net code="13" name="/BaseCIAA7/IN6">
+      <node ref="U9" pin="12"/>
+      <node ref="J9" pin="9"/>
+    </net>
+    <net code="14" name="/BaseCIAA7/IN7">
+      <node ref="J9" pin="10"/>
+      <node ref="U9" pin="11"/>
+    </net>
+    <net code="15" name="/BaseCIAA7/OUT0">
+      <node ref="JP1" pin="1"/>
+      <node ref="U1" pin="3"/>
+      <node ref="J7" pin="16"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="16" name="/BaseCIAA7/OUT7">
+      <node ref="R12" pin="2"/>
+      <node ref="R16" pin="2"/>
+      <node ref="J7" pin="17"/>
+    </net>
+    <net code="17" name="Net-(JE4-Pad2)">
+      <node ref="R31" pin="2"/>
+      <node ref="JE4" pin="2"/>
+    </net>
+    <net code="18" name="Net-(JE2-Pad1)">
+      <node ref="JE2" pin="1"/>
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="19" name="Net-(JE2-Pad2)">
+      <node ref="JE2" pin="2"/>
+      <node ref="R21" pin="2"/>
+    </net>
+    <net code="20" name="Net-(JE1-Pad1)">
+      <node ref="JE1" pin="1"/>
+      <node ref="R19" pin="2"/>
+    </net>
+    <net code="21" name="GND">
+      <node ref="H6" pin="1"/>
+      <node ref="U6" pin="2"/>
+      <node ref="U7" pin="2"/>
+      <node ref="D6" pin="2"/>
+      <node ref="D7" pin="2"/>
+      <node ref="H5" pin="1"/>
+      <node ref="D5" pin="2"/>
+      <node ref="H7" pin="1"/>
+      <node ref="U8" pin="2"/>
+      <node ref="H3" pin="1"/>
+      <node ref="H1" pin="1"/>
+      <node ref="H2" pin="1"/>
+      <node ref="J8" pin="2"/>
+      <node ref="J8" pin="1"/>
+      <node ref="H4" pin="1"/>
+      <node ref="J13" pin="10"/>
+      <node ref="J13" pin="2"/>
+      <node ref="J13" pin="4"/>
+      <node ref="J13" pin="6"/>
+      <node ref="J13" pin="8"/>
+      <node ref="H8" pin="1"/>
+      <node ref="J18" pin="9"/>
+      <node ref="J18" pin="7"/>
+      <node ref="J18" pin="5"/>
+      <node ref="J18" pin="3"/>
+      <node ref="J18" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="Q2" pin="3"/>
+      <node ref="U2" pin="4"/>
+      <node ref="R2" pin="2"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="U1" pin="4"/>
+      <node ref="D2" pin="2"/>
+      <node ref="D8" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="J7" pin="24"/>
+      <node ref="J7" pin="22"/>
+      <node ref="D4" pin="2"/>
+      <node ref="U4" pin="4"/>
+      <node ref="Q4" pin="3"/>
+      <node ref="R4" pin="2"/>
+      <node ref="Q3" pin="3"/>
+      <node ref="U3" pin="4"/>
+      <node ref="D3" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U9" pin="15"/>
+      <node ref="U5" pin="2"/>
+      <node ref="J2" pin="1"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="22" name="Net-(JE4-Pad3)">
+      <node ref="JE4" pin="3"/>
+      <node ref="R29" pin="2"/>
+    </net>
+    <net code="23" name="Net-(JE3-Pad2)">
+      <node ref="JE3" pin="2"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="24" name="GNDREF">
+      <node ref="R18" pin="2"/>
+      <node ref="R28" pin="2"/>
+      <node ref="JE4" pin="1"/>
+      <node ref="R20" pin="2"/>
+      <node ref="R26" pin="2"/>
+      <node ref="R30" pin="2"/>
+      <node ref="R24" pin="2"/>
+      <node ref="R22" pin="2"/>
+      <node ref="R32" pin="2"/>
+      <node ref="U9" pin="6"/>
+      <node ref="U9" pin="5"/>
+    </net>
+    <net code="25" name="+3V3">
+      <node ref="C9" pin="2"/>
+      <node ref="J7" pin="23"/>
+      <node ref="U9" pin="16"/>
+      <node ref="J7" pin="21"/>
+    </net>
+    <net code="26" name="/Entradas/A8">
+      <node ref="R31" pin="1"/>
+      <node ref="R32" pin="1"/>
+      <node ref="U9" pin="10"/>
+    </net>
+    <net code="27" name="/Entradas/A7">
+      <node ref="U9" pin="9"/>
+      <node ref="R29" pin="1"/>
+      <node ref="R30" pin="1"/>
+    </net>
+    <net code="28" name="/Entradas/A6">
+      <node ref="U9" pin="8"/>
+      <node ref="R28" pin="1"/>
+      <node ref="R27" pin="1"/>
+    </net>
+    <net code="29" name="/Entradas/A5">
+      <node ref="U9" pin="7"/>
+      <node ref="R26" pin="1"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="30" name="/Entradas/A4">
+      <node ref="U9" pin="4"/>
+      <node ref="R24" pin="1"/>
+      <node ref="R23" pin="1"/>
+    </net>
+    <net code="31" name="/Entradas/A3">
+      <node ref="U9" pin="3"/>
+      <node ref="R22" pin="1"/>
+      <node ref="R21" pin="1"/>
+    </net>
+    <net code="32" name="/Entradas/A2">
+      <node ref="U9" pin="2"/>
+      <node ref="R20" pin="1"/>
+      <node ref="R19" pin="1"/>
+    </net>
+    <net code="33" name="/Entradas/A1">
+      <node ref="R18" pin="1"/>
+      <node ref="U9" pin="1"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="34" name="Net-(JE1-Pad2)">
+      <node ref="R17" pin="2"/>
+      <node ref="JE1" pin="2"/>
+    </net>
+    <net code="35" name="Net-(JE3-Pad1)">
+      <node ref="JE3" pin="1"/>
+      <node ref="R27" pin="2"/>
+    </net>
+    <net code="36" name="Net-(JP4-Pad2)">
+      <node ref="R8" pin="2"/>
+      <node ref="U4" pin="5"/>
+      <node ref="JP4" pin="2"/>
+      <node ref="Q4" pin="1"/>
+    </net>
+    <net code="37" name="Net-(Q4-Pad2)">
+      <node ref="Q4" pin="2"/>
+      <node ref="Q4" pin="4"/>
+      <node ref="TH4" pin="1"/>
+    </net>
+    <net code="38" name="Net-(Q3-Pad2)">
+      <node ref="Q3" pin="4"/>
+      <node ref="Q3" pin="2"/>
+      <node ref="TH3" pin="1"/>
+    </net>
+    <net code="39" name="Net-(Q2-Pad2)">
+      <node ref="Q2" pin="4"/>
+      <node ref="TH2" pin="1"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="40" name="Net-(Q1-Pad2)">
+      <node ref="TH1" pin="1"/>
+      <node ref="Q1" pin="4"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="41" name="Net-(JP1-Pad2)">
+      <node ref="JP1" pin="2"/>
+      <node ref="U1" pin="5"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="42" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="43" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="44" name="Net-(U5-Pad5)">
+      <node ref="U5" pin="5"/>
+    </net>
+    <net code="45" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1"/>
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="46" name="Net-(R13-Pad1)">
+      <node ref="U5" pin="1"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="47" name="Net-(JP2-Pad2)">
+      <node ref="R6" pin="2"/>
+      <node ref="U2" pin="5"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="JP2" pin="2"/>
+    </net>
+    <net code="48" name="Net-(JP3-Pad2)">
+      <node ref="Q3" pin="1"/>
+      <node ref="U3" pin="5"/>
+      <node ref="R7" pin="2"/>
+      <node ref="JP3" pin="2"/>
+    </net>
+    <net code="49" name="Net-(D2-Pad1)">
+      <node ref="R6" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="50" name="+5V">
+      <node ref="U2" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="J18" pin="8"/>
+      <node ref="J18" pin="6"/>
+      <node ref="J18" pin="4"/>
+      <node ref="J18" pin="2"/>
+      <node ref="J18" pin="10"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="U4" pin="2"/>
+      <node ref="J8" pin="12"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="J8" pin="11"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="U3" pin="2"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="51" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+      <node ref="TH1" pin="2"/>
+    </net>
+    <net code="52" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="53" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2"/>
+      <node ref="TH4" pin="2"/>
+    </net>
+    <net code="54" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1"/>
+      <node ref="TH2" pin="2"/>
+    </net>
+    <net code="55" name="Net-(J2-Pad3)">
+      <node ref="TH3" pin="2"/>
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="56" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2"/>
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="57" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="58" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="59" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="60" name="Net-(U7-Pad5)">
+      <node ref="U7" pin="5"/>
+    </net>
+    <net code="61" name="Net-(J5-Pad1)">
+      <node ref="U7" pin="6"/>
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="62" name="Net-(R15-Pad1)">
+      <node ref="U7" pin="1"/>
+      <node ref="R15" pin="1"/>
+    </net>
+    <net code="63" name="Net-(J5-Pad2)">
+      <node ref="J5" pin="2"/>
+      <node ref="U7" pin="4"/>
+    </net>
+    <net code="64" name="Net-(J6-Pad2)">
+      <node ref="U8" pin="4"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="65" name="Net-(U8-Pad5)">
+      <node ref="U8" pin="5"/>
+    </net>
+    <net code="66" name="Net-(R16-Pad1)">
+      <node ref="U8" pin="1"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="67" name="Net-(U6-Pad5)">
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="68" name="Net-(D5-Pad1)">
+      <node ref="R9" pin="1"/>
+      <node ref="D5" pin="1"/>
+    </net>
+    <net code="69" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1"/>
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="70" name="Net-(R14-Pad1)">
+      <node ref="U6" pin="1"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="71" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1"/>
+      <node ref="U8" pin="6"/>
+    </net>
+    <net code="72" name="Net-(J3-Pad2)">
+      <node ref="U5" pin="4"/>
+      <node ref="J3" pin="2"/>
+    </net>
+    <net code="73" name="Net-(U1-Pad1)">
+      <node ref="U1" pin="1"/>
+    </net>
+    <net code="74" name="Net-(U2-Pad1)">
+      <node ref="U2" pin="1"/>
+    </net>
+    <net code="75" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1"/>
+    </net>
+    <net code="76" name="Net-(U4-Pad1)">
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="77" name="/BaseCIAA7/ADC3_INP1">
+      <node ref="J10" pin="7"/>
+      <node ref="J8" pin="4"/>
+    </net>
+    <net code="78" name="/BaseCIAA7/ADC12_INN1_INP0">
+      <node ref="J10" pin="5"/>
+      <node ref="J8" pin="33"/>
+    </net>
+    <net code="79" name="/BaseCIAA7/ADC123_INP10">
+      <node ref="J8" pin="23"/>
+      <node ref="J10" pin="3"/>
+    </net>
+    <net code="80" name="/BaseCIAA7/ADC12_INN5_INP9">
+      <node ref="J8" pin="35"/>
+      <node ref="J10" pin="21"/>
+    </net>
+    <net code="81" name="+3.3VP">
+      <node ref="J13" pin="5"/>
+      <node ref="J13" pin="1"/>
+      <node ref="J8" pin="21"/>
+      <node ref="J8" pin="22"/>
+      <node ref="J13" pin="3"/>
+      <node ref="J13" pin="9"/>
+      <node ref="J13" pin="7"/>
+    </net>
+    <net code="82" name="/BaseCIAA7/PA8">
+      <node ref="J8" pin="27"/>
+      <node ref="J7" pin="3"/>
+    </net>
+    <net code="83" name="/BaseCIAA7/PC9">
+      <node ref="J8" pin="7"/>
+      <node ref="J7" pin="4"/>
+    </net>
+    <net code="84" name="/BaseCIAA7/PC6">
+      <node ref="J8" pin="36"/>
+      <node ref="J7" pin="6"/>
+    </net>
+    <net code="85" name="/BaseCIAA7/PE5">
+      <node ref="J8" pin="20"/>
+      <node ref="J9" pin="7"/>
+    </net>
+    <net code="86" name="/BaseCIAA7/PC13">
+      <node ref="J8" pin="3"/>
+      <node ref="J10" pin="1"/>
+    </net>
+    <net code="87" name="/BaseCIAA7/PB5">
+      <node ref="J9" pin="16"/>
+      <node ref="J8" pin="18"/>
+    </net>
+    <net code="88" name="/BaseCIAA7/~RESET">
+      <node ref="J9" pin="6"/>
+    </net>
+    <net code="89" name="Net-(J9-Pad4)">
+      <node ref="J9" pin="4"/>
+    </net>
+    <net code="90" name="Net-(J9-Pad3)">
+      <node ref="J9" pin="5"/>
+      <node ref="J9" pin="3"/>
+    </net>
+    <net code="91" name="/BaseCIAA7/PC10">
+      <node ref="J9" pin="24"/>
+      <node ref="J8" pin="37"/>
+    </net>
+    <net code="92" name="/BaseCIAA7/PA15">
+      <node ref="J9" pin="23"/>
+      <node ref="J8" pin="8"/>
+    </net>
+    <net code="93" name="/BaseCIAA7/PD4">
+      <node ref="J9" pin="22"/>
+      <node ref="J8" pin="17"/>
+    </net>
+    <net code="94" name="/BaseCIAA7/PD3">
+      <node ref="J8" pin="28"/>
+      <node ref="J9" pin="21"/>
+    </net>
+    <net code="95" name="/BaseCIAA7/PD6">
+      <node ref="J8" pin="38"/>
+      <node ref="J9" pin="20"/>
+    </net>
+    <net code="96" name="Net-(J9-Pad2)">
+      <node ref="J9" pin="2"/>
+    </net>
+    <net code="97" name="/BaseCIAA7/PD5">
+      <node ref="J8" pin="9"/>
+      <node ref="J9" pin="19"/>
+    </net>
+    <net code="98" name="/BaseCIAA7/PB3">
+      <node ref="J9" pin="18"/>
+      <node ref="J8" pin="29"/>
+    </net>
+    <net code="99" name="/BaseCIAA7/PD7">
+      <node ref="J9" pin="17"/>
+    </net>
+    <net code="100" name="/BaseCIAA7/PB4">
+      <node ref="J8" pin="39"/>
+      <node ref="J9" pin="15"/>
+    </net>
+    <net code="101" name="/BaseCIAA7/PB7">
+      <node ref="J9" pin="14"/>
+      <node ref="J8" pin="19"/>
+    </net>
+    <net code="102" name="/BaseCIAA7/PB6">
+      <node ref="J8" pin="30"/>
+      <node ref="J9" pin="13"/>
+    </net>
+    <net code="103" name="/BaseCIAA7/PE2">
+      <node ref="J9" pin="12"/>
+      <node ref="J8" pin="40"/>
+    </net>
+    <net code="104" name="/BaseCIAA7/PB8">
+      <node ref="J9" pin="11"/>
+    </net>
+    <net code="105" name="Net-(J9-Pad1)">
+      <node ref="J9" pin="1"/>
+    </net>
+    <net code="106" name="/BaseCIAA7/PE6">
+      <node ref="J8" pin="10"/>
+      <node ref="J9" pin="8"/>
+    </net>
+    <net code="107" name="/BaseCIAA7/U1_TX">
+      <node ref="J7" pin="2"/>
+    </net>
+    <net code="108" name="Net-(J8-Pad6)">
+      <node ref="J8" pin="6"/>
+    </net>
+    <net code="109" name="/BaseCIAA7/ADC12_INP15">
+      <node ref="J10" pin="11"/>
+      <node ref="J8" pin="24"/>
+    </net>
+    <net code="110" name="/BaseCIAA7/ADC12_INP18">
+      <node ref="J8" pin="34"/>
+      <node ref="J10" pin="13"/>
+    </net>
+    <net code="111" name="/BaseCIAA7/ADC12_INP19">
+      <node ref="J8" pin="5"/>
+      <node ref="J10" pin="15"/>
+    </net>
+    <net code="112" name="/BaseCIAA7/ADC12_INP3">
+      <node ref="J10" pin="17"/>
+      <node ref="J8" pin="14"/>
+    </net>
+    <net code="113" name="/BaseCIAA7/ADC12_INP5">
+      <node ref="J8" pin="25"/>
+      <node ref="J10" pin="19"/>
+    </net>
+    <net code="114" name="/BaseCIAA7/ADC1_INP16">
+      <node ref="J8" pin="13"/>
+      <node ref="J10" pin="9"/>
+    </net>
+    <net code="115" name="Net-(J8-Pad26)">
+      <node ref="J8" pin="26"/>
+    </net>
+    <net code="116" name="Net-(J8-Pad15)">
+      <node ref="J8" pin="15"/>
+    </net>
+    <net code="117" name="/BaseCIAA7/U1_RX">
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="118" name="GNDA">
+      <node ref="J8" pin="31"/>
+      <node ref="J8" pin="32"/>
+      <node ref="J10" pin="8"/>
+      <node ref="J10" pin="18"/>
+      <node ref="J10" pin="6"/>
+      <node ref="J10" pin="4"/>
+      <node ref="J10" pin="24"/>
+      <node ref="J10" pin="23"/>
+      <node ref="J10" pin="22"/>
+      <node ref="J10" pin="20"/>
+      <node ref="J10" pin="2"/>
+      <node ref="J10" pin="14"/>
+      <node ref="J10" pin="12"/>
+      <node ref="J10" pin="10"/>
+      <node ref="J10" pin="16"/>
+    </net>
+    <net code="119" name="/BaseCIAA7/PC7">
+      <node ref="J7" pin="5"/>
+      <node ref="J8" pin="16"/>
+    </net>
+  </nets>
+</export>

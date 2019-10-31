@@ -22,6 +22,7 @@ F 0 "H3" V 6804 899 50  0000 L CNN
 F 1 "MountingHole" V 6895 899 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 6850 750 50  0001 C CNN
 F 3 "~" H 6850 750 50  0001 C CNN
+F 4 "Mounting Hole" H 6850 750 50  0001 C CNN "Desc"
 	1    6850 750 
 	0    -1   -1   0   
 $EndComp
@@ -33,6 +34,7 @@ F 0 "H1" V 5100 950 50  0000 C CNN
 F 1 "MountingHole" V 5200 1150 50  0000 C CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 5150 750 50  0001 C CNN
 F 3 "~" H 5150 750 50  0001 C CNN
+F 4 "Mounting Hole" H 5150 750 50  0001 C CNN "Desc"
 	1    5150 750 
 	0    1    -1   0   
 $EndComp
@@ -44,6 +46,7 @@ F 0 "H2" V 4904 900 50  0000 L CNN
 F 1 "MountingHole" V 4995 900 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 4950 750 50  0001 C CNN
 F 3 "~" H 4950 750 50  0001 C CNN
+F 4 "Mounting Hole" H 4950 750 50  0001 C CNN "Desc"
 	1    4950 750 
 	0    -1   1    0   
 $EndComp
@@ -140,8 +143,11 @@ P 8650 4700
 F 0 "J10" H 8700 5350 50  0000 C CNN
 F 1 "Conn_02x12_Odd_Even" H 9250 5400 50  0000 C CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical" H 8650 4700 50  0001 C CNN
-F 3 "" H 8650 4700 50  0001 C CNN
-F 4 " 	2057-PH2-12-UA-ND " H 8650 4700 50  0001 C CNN "Digikey#"
+F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 8650 4700 50  0001 C CNN
+F 4 "2057-PH2-12-UA-ND" H 8650 4700 50  0001 C CNN "Digikey#"
+F 5 "2x12 Pin header - 2.54mm" H 8650 4700 50  0001 C CNN "Desc"
+F 6 "Adam" H 8650 4700 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 8650 4700 50  0001 C CNN "DigikeyPage"
 	1    8650 4700
 	1    0    0    -1  
 $EndComp
@@ -185,8 +191,11 @@ P 8650 2700
 F 0 "J13" H 8650 2350 50  0000 L CNN
 F 1 "Conn_02x05_Odd_Even" H 8000 3050 50  0000 L CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical" H 8650 2700 50  0001 C CNN
-F 3 "PH2-XX-UA.pdf" H 8650 2700 50  0001 C CNN
-F 4 " 	2057-PH2-12-UA-ND " H 8650 2700 50  0001 C CNN "Digikey#"
+F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 8650 2700 50  0001 C CNN
+F 4 "2057-PH2-12-UA-ND" H 8650 2700 50  0001 C CNN "Digikey#"
+F 5 "2x5 Pin header - 2.54mm" H 8650 2700 50  0001 C CNN "Desc"
+F 6 "Adam" H 8650 2700 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 8650 2700 50  0001 C CNN "DigikeyPage"
 	1    8650 2700
 	-1   0    0    1   
 $EndComp
@@ -277,8 +286,11 @@ P 7350 2700
 F 0 "J18" H 7400 2350 50  0000 C CNN
 F 1 "Conn_02x05_Odd_Even" H 7700 3050 50  0000 C CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_2x05_P2.54mm_Vertical" H 7350 2700 50  0001 C CNN
-F 3 "PH2-XX-UA.pdf" H 7350 2700 50  0001 C CNN
-F 4 " 	2057-PH2-12-UA-ND " H 7350 2700 50  0001 C CNN "Digikey#"
+F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 7350 2700 50  0001 C CNN
+F 4 "2057-PH2-12-UA-ND" H 7350 2700 50  0001 C CNN "Digikey#"
+F 5 "2x5 Pin header - 2.54mm" H 7350 2700 50  0001 C CNN "Desc"
+F 6 "Adam" H 7350 2700 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 7350 2700 50  0001 C CNN "DigikeyPage"
 	1    7350 2700
 	-1   0    0    1   
 $EndComp
@@ -420,7 +432,11 @@ AR Path="/5DAD5FB7/5D9CF029" Ref="J9"  Part="1"
 F 0 "J9" H 10150 5417 50  0000 C CNN
 F 1 "Conn_02x12_Odd_Even" H 10150 5326 50  0000 C CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical" H 10100 4700 50  0001 C CNN
-F 3 "" H 10100 4700 50  0001 C CNN
+F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 10100 4700 50  0001 C CNN
+F 4 "2x12 Pin header - 2.54mm" H 10100 4700 50  0001 C CNN "Desc"
+F 5 "2057-PH2-12-UA-ND" H 10100 4700 50  0001 C CNN "Digikey#"
+F 6 "Adam" H 10100 4700 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 10100 4700 50  0001 C CNN "DigikeyPage"
 	1    10100 4700
 	1    0    0    -1  
 $EndComp
@@ -500,8 +516,10 @@ F 0 "J8" H 2550 5717 50  0000 C CNN
 F 1 "Conn_02x20_Counter_Clockwise" H 2550 5626 50  0000 C CNN
 F 2 "Poncho-PLC:TX24-40R-LT-H1E" H 2500 4600 50  0001 C CNN
 F 3 "https://www.jae.com/direct/topics/topics_file_download/?topics_id=66755&ext_no=06&index=0&_lang=en" H 2500 4600 50  0001 C CNN
-F 4 "	40 Position Connector Receptacle, Outer Shroud Contacts Through Hole, Right Angle Gold" H 2500 4600 50  0001 C CNN "Desc"
-F 5 "	670-1386-ND" H 2500 4600 50  0001 C CNN "Digikey#"
+F 4 "40 Position Connector Receptacle, Outer Shroud Contacts Through Hole, Right Angle Gold" H 2500 4600 50  0001 C CNN "Desc"
+F 5 "670-1386-ND" H 2500 4600 50  0001 C CNN "Digikey#"
+F 6 "Jae" H 2500 4600 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=670-1386-ND" H 2500 4600 50  0001 C CNN "DigikeyPage"
 	1    2500 4600
 	1    0    0    -1  
 $EndComp
@@ -688,6 +706,7 @@ F 0 "H7" V 7004 899 50  0000 L CNN
 F 1 "MountingHole" V 7095 899 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 7050 750 50  0001 C CNN
 F 3 "~" H 7050 750 50  0001 C CNN
+F 4 "Mounting Hole" H 7050 750 50  0001 C CNN "Desc"
 	1    7050 750 
 	0    1    1    0   
 $EndComp
@@ -699,6 +718,7 @@ F 0 "H5" V 5100 1250 50  0000 C CNN
 F 1 "MountingHole" V 5200 1450 50  0000 C CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 5150 1050 50  0001 C CNN
 F 3 "~" H 5150 1050 50  0001 C CNN
+F 4 "Mounting Hole" H 5150 1050 50  0001 C CNN "Desc"
 	1    5150 1050
 	0    1    -1   0   
 $EndComp
@@ -710,6 +730,7 @@ F 0 "H6" V 4904 1200 50  0000 L CNN
 F 1 "MountingHole" V 4995 1200 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 4950 1050 50  0001 C CNN
 F 3 "~" H 4950 1050 50  0001 C CNN
+F 4 "Mounting Hole" H 4950 1050 50  0001 C CNN "Desc"
 	1    4950 1050
 	0    -1   1    0   
 $EndComp
@@ -721,6 +742,7 @@ F 0 "FID3" H 9700 1100 50  0000 C CNN
 F 1 "Fiducial" H 9785 905 50  0001 L CNN
 F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9700 950 50  0001 C CNN
 F 3 "~" H 9700 950 50  0001 C CNN
+F 4 "Fiducial" H 9700 950 50  0001 C CNN "Desc"
 	1    9700 950 
 	1    0    0    -1  
 $EndComp
@@ -732,6 +754,7 @@ F 0 "FID1" H 9100 1100 50  0000 C CNN
 F 1 "Fiducial" H 9185 905 50  0001 L CNN
 F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9100 950 50  0001 C CNN
 F 3 "~" H 9100 950 50  0001 C CNN
+F 4 "Fiducial" H 9100 950 50  0001 C CNN "Desc"
 	1    9100 950 
 	1    0    0    -1  
 $EndComp
@@ -743,6 +766,7 @@ F 0 "FID2" H 9400 1100 50  0000 C CNN
 F 1 "Fiducial" H 9485 905 50  0001 L CNN
 F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9400 950 50  0001 C CNN
 F 3 "~" H 9400 950 50  0001 C CNN
+F 4 "Fiducial" H 9400 950 50  0001 C CNN "Desc"
 	1    9400 950 
 	1    0    0    -1  
 $EndComp
@@ -851,6 +875,7 @@ F 0 "H8" V 7004 1199 50  0000 L CNN
 F 1 "MountingHole" V 7095 1199 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 7050 1050 50  0001 C CNN
 F 3 "~" H 7050 1050 50  0001 C CNN
+F 4 "Mounting Hole" H 7050 1050 50  0001 C CNN "Desc"
 	1    7050 1050
 	0    1    1    0   
 $EndComp
@@ -863,6 +888,7 @@ F 0 "H4" V 6804 1199 50  0000 L CNN
 F 1 "MountingHole" V 6895 1199 50  0000 L CNN
 F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 6850 1050 50  0001 C CNN
 F 3 "~" H 6850 1050 50  0001 C CNN
+F 4 "Mounting Hole" H 6850 1050 50  0001 C CNN "Desc"
 	1    6850 1050
 	0    -1   -1   0   
 $EndComp
@@ -880,8 +906,11 @@ P 6200 4800
 F 0 "J7" H 6250 4050 50  0000 C CNN
 F 1 "Conn_02x12_Odd_Even" H 6700 5450 50  0000 C CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_2x12_P2.54mm_Vertical" H 6200 4800 50  0001 C CNN
-F 3 "" H 6200 4800 50  0001 C CNN
-F 4 " 	2057-PH2-12-UA-ND " H 6200 4800 50  0001 C CNN "Digikey#"
+F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 6200 4800 50  0001 C CNN
+F 4 "2057-PH2-12-UA-ND" H 6200 4800 50  0001 C CNN "Digikey#"
+F 5 "2x12 Pin header - 2.54mm" H 6200 4800 50  0001 C CNN "Desc"
+F 6 "Adam" H 6200 4800 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 6200 4800 50  0001 C CNN "DigikeyPage"
 	1    6200 4800
 	-1   0    0    1   
 $EndComp
