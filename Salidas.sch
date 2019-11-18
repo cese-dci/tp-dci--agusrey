@@ -1072,7 +1072,7 @@ P 7900 2750
 F 0 "R10" H 7790 2710 40  0000 C CNN
 F 1 "330" H 7790 2770 40  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 2750 30  0001 C CNN
-F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 2750 30  0000 C CNN
+F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 2750 30  0001 C CNN
 F 4 "" H 7900 2750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 2750 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-331ELFTR-ND" H 7900 2750 50  0001 C CNN "Digikey#"
@@ -1141,7 +1141,7 @@ P 7900 3750
 F 0 "R11" H 7790 3710 40  0000 C CNN
 F 1 "330" H 7790 3770 40  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" V 7830 3750 30  0001 C CNN
-F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 3750 30  0000 C CNN
+F 3 "https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf" H 7900 3750 30  0001 C CNN
 F 4 "" H 7900 3750 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 7900 3750 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-331ELFTR-ND" H 7900 3750 50  0001 C CNN "Digikey#"

@@ -147,6 +147,7 @@ F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 8650 4700 50  0001 C
 F 4 "2057-PH2-12-UA-ND" H 8650 4700 50  0001 C CNN "Digikey#"
 F 5 "2x12 Pin header - 2.54mm" H 8650 4700 50  0001 C CNN "Desc"
 F 6 "Adam" H 8650 4700 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 8650 4700 50  0001 C CNN "DigikeyPage"
 	1    8650 4700
 	1    0    0    -1  
 $EndComp
@@ -194,6 +195,7 @@ F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 8650 2700 50  0001 C
 F 4 "2057-PH2-12-UA-ND" H 8650 2700 50  0001 C CNN "Digikey#"
 F 5 "2x5 Pin header - 2.54mm" H 8650 2700 50  0001 C CNN "Desc"
 F 6 "Adam" H 8650 2700 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 8650 2700 50  0001 C CNN "DigikeyPage"
 	1    8650 2700
 	-1   0    0    1   
 $EndComp
@@ -288,6 +290,7 @@ F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 7350 2700 50  0001 C
 F 4 "2057-PH2-12-UA-ND" H 7350 2700 50  0001 C CNN "Digikey#"
 F 5 "2x5 Pin header - 2.54mm" H 7350 2700 50  0001 C CNN "Desc"
 F 6 "Adam" H 7350 2700 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 7350 2700 50  0001 C CNN "DigikeyPage"
 	1    7350 2700
 	-1   0    0    1   
 $EndComp
@@ -433,6 +436,7 @@ F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 10100 4700 50  0001 
 F 4 "2x12 Pin header - 2.54mm" H 10100 4700 50  0001 C CNN "Desc"
 F 5 "2057-PH2-12-UA-ND" H 10100 4700 50  0001 C CNN "Digikey#"
 F 6 "Adam" H 10100 4700 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 10100 4700 50  0001 C CNN "DigikeyPage"
 	1    10100 4700
 	1    0    0    -1  
 $EndComp
@@ -515,6 +519,7 @@ F 3 "https://www.jae.com/direct/topics/topics_file_download/?topics_id=66755&ext
 F 4 "40 Position Connector Receptacle, Outer Shroud Contacts Through Hole, Right Angle Gold" H 2500 4600 50  0001 C CNN "Desc"
 F 5 "670-1386-ND" H 2500 4600 50  0001 C CNN "Digikey#"
 F 6 "Jae" H 2500 4600 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=670-1386-ND" H 2500 4600 50  0001 C CNN "DigikeyPage"
 	1    2500 4600
 	1    0    0    -1  
 $EndComp
@@ -905,6 +910,7 @@ F 3 "http://adam-tech.com/downloader.php?p=PH2-XX-UA.pdf" H 6200 4800 50  0001 C
 F 4 "2057-PH2-12-UA-ND" H 6200 4800 50  0001 C CNN "Digikey#"
 F 5 "2x12 Pin header - 2.54mm" H 6200 4800 50  0001 C CNN "Desc"
 F 6 "Adam" H 6200 4800 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=2057-PH2-12-UA-ND" H 6200 4800 50  0001 C CNN "DigikeyPage"
 	1    6200 4800
 	-1   0    0    1   
 $EndComp

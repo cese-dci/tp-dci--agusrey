@@ -1,4 +1,4 @@
-update=mié 23 oct 2019 23:42:37 -03
+update=lun 18 nov 2019 10:47:27 -03
 version=1
 last_client=kicad
 [general]
@@ -272,8 +272,8 @@ dPairViaGap=0.25
 Name=FinePitch
 Clearance=0.2
 TrackWidth=0.25
-ViaDiameter=1.5
-ViaDrill=0.7
+ViaDiameter=1
+ViaDrill=0.5
 uViaDiameter=0.3
 uViaDrill=0.1
 dPairWidth=0.4
@@ -294,7 +294,7 @@ dPairViaGap=0.25
 Name=UltraFinePitch
 Clearance=0.18
 TrackWidth=0.2
-ViaDiameter=1.5
+ViaDiameter=1
 ViaDrill=0.7
 uViaDiameter=0.3
 uViaDrill=0.1

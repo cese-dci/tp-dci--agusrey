@@ -28,6 +28,7 @@ F 4 "" H 5750 1150 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 1150 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-622ELFTR-ND" H 5750 1150 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 1150 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND" H 5750 1150 50  0001 C CNN "DigikeyPage"
 	1    5750 1150
 	0    1    1    0   
 $EndComp
@@ -45,6 +46,7 @@ F 4 "" H 5750 1350 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 1350 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 1350 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 1350 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20" H 5750 1350 50  0001 C CNN "DigikeyPage"
 	1    5750 1350
 	0    1    1    0   
 $EndComp
@@ -70,6 +72,7 @@ F 4 "" H 5750 1600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 1600 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-622ELFTR-ND" H 5750 1600 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 1600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND" H 5750 1600 50  0001 C CNN "DigikeyPage"
 	1    5750 1600
 	0    1    1    0   
 $EndComp
@@ -87,6 +90,7 @@ F 4 "" H 5750 1800 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 1800 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 1800 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 1800 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20" H 5750 1800 50  0001 C CNN "DigikeyPage"
 	1    5750 1800
 	0    1    1    0   
 $EndComp
@@ -112,6 +116,7 @@ F 4 "" H 5750 2050 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2050 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-622ELFTR-ND" H 5750 2050 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 2050 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND" H 5750 2050 50  0001 C CNN "DigikeyPage"
 	1    5750 2050
 	0    1    1    0   
 $EndComp
@@ -129,6 +134,7 @@ F 4 "" H 5750 2250 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2250 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 2250 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 2250 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20" H 5750 2250 50  0001 C CNN "DigikeyPage"
 	1    5750 2250
 	0    1    1    0   
 $EndComp
@@ -154,6 +160,7 @@ F 4 "" H 5750 2500 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2500 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-622ELFTR-ND" H 5750 2500 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 2500 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND" H 5750 2500 50  0001 C CNN "DigikeyPage"
 	1    5750 2500
 	0    1    1    0   
 $EndComp
@@ -171,6 +178,7 @@ F 4 "" H 5750 2700 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2700 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 2700 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 2700 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20" H 5750 2700 50  0001 C CNN "DigikeyPage"
 	1    5750 2700
 	0    1    1    0   
 $EndComp
@@ -196,6 +204,7 @@ F 4 "" H 5750 2950 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 2950 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-622ELFTR-ND" H 5750 2950 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 2950 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND" H 5750 2950 50  0001 C CNN "DigikeyPage"
 	1    5750 2950
 	0    1    1    0   
 $EndComp
@@ -213,6 +222,7 @@ F 4 "" H 5750 3150 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 3150 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 3150 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 3150 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20" H 5750 3150 50  0001 C CNN "DigikeyPage"
 	1    5750 3150
 	0    1    1    0   
 $EndComp
@@ -238,6 +248,7 @@ F 4 "" H 5750 3400 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 3400 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-622ELFTR-ND" H 5750 3400 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 3400 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND" H 5750 3400 50  0001 C CNN "DigikeyPage"
 	1    5750 3400
 	0    1    1    0   
 $EndComp
@@ -255,6 +266,7 @@ F 4 "" H 5750 3600 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 3600 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 3600 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 3600 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20" H 5750 3600 50  0001 C CNN "DigikeyPage"
 	1    5750 3600
 	0    1    1    0   
 $EndComp
@@ -280,6 +292,7 @@ F 4 "" H 5750 3850 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 3850 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-622ELFTR-ND" H 5750 3850 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 3850 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND" H 5750 3850 50  0001 C CNN "DigikeyPage"
 	1    5750 3850
 	0    1    1    0   
 $EndComp
@@ -297,6 +310,7 @@ F 4 "" H 5750 4050 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 4050 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 4050 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 4050 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20" H 5750 4050 50  0001 C CNN "DigikeyPage"
 	1    5750 4050
 	0    1    1    0   
 $EndComp
@@ -322,6 +336,7 @@ F 4 "" H 5750 4300 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 4300 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-622ELFTR-ND" H 5750 4300 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 4300 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-622ELFTR-ND" H 5750 4300 50  0001 C CNN "DigikeyPage"
 	1    5750 4300
 	0    1    1    0   
 $EndComp
@@ -339,6 +354,7 @@ F 4 "" H 5750 4500 60  0001 C CNN "Title"
 F 5 "1/8W Chip Resistor 0805 " H 5750 4500 50  0001 C CNN "Desc"
 F 6 "CR0805-JW-272ELFTR-ND " H 5750 4500 50  0001 C CNN "Digikey#"
 F 7 "Bourns" H 5750 4500 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CR0805-JW-272ELFTR-ND%20" H 5750 4500 50  0001 C CNN "DigikeyPage"
 	1    5750 4500
 	0    1    1    0   
 $EndComp
@@ -467,6 +483,7 @@ F 4 "" H 9050 2800 60  0001 C CNN "Title"
 F 5 "CL31B104KBCNNNL-ND" H 9050 2800 50  0001 C CNN "Digikey#"
 F 6 " 	0.1µF ±10% 50V Ceramic Capacitor X7R 1206 (3216 Metric) " H 9050 2800 50  0001 C CNN "Desc"
 F 7 "Samsung" H 9050 2800 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=CL31B104KBCNNNL-ND" H 9050 2800 50  0001 C CNN "DigikeyPage"
 	1    9050 2800
 	0    -1   -1   0   
 $EndComp
@@ -633,6 +650,7 @@ F 4 "" H 4050 2950 60  0001 C CNN "Title"
 F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos" H 4050 2950 50  0001 C CNN "Desc"
 F 6 "A98062-ND " H 4050 2950 50  0001 C CNN "Digikey#"
 F 7 "Weco" H 4050 2950 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=A98062-ND%20" H 4050 2950 50  0001 C CNN "DigikeyPage"
 	1    4050 2950
 	1    0    0    1   
 $EndComp
@@ -649,6 +667,7 @@ F 3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&
 F 4 "Terminal Block - Header, Male Pins, Shrouded -5mm -3 pos" H 4050 3550 50  0001 C CNN "Desc"
 F 5 "A98063-ND" H 4050 3550 50  0001 C CNN "Digikey#"
 F 6 "Weco" H 4050 3550 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=A98063-ND" H 4050 3550 50  0001 C CNN "DigikeyPage"
 	1    4050 3550
 	1    0    0    1   
 $EndComp
@@ -669,6 +688,7 @@ F 3 "https://www.silabs.com/documents/public/data-sheets/Si838x-DataSheet.pdf" H
 F 4 " 	General Purpose Digital Isolator 2500Vrms 8 Channel 2Mbps 200kV/µs CMTI 20-SSOP (0.154\", 3.90mm Width) " H 7500 2800 50  0001 C CNN "Desc"
 F 5 "336-3618-5-ND " H 7500 2800 50  0001 C CNN "Digikey#"
 F 6 "Silabs" H 7500 2800 50  0001 C CNN "Manf"
+F 7 "https://www.digikey.com/products/en?keywords=336-3618-5-ND%20" H 7500 2800 50  0001 C CNN "DigikeyPage"
 	1    7500 2800
 	1    0    0    -1  
 $EndComp
@@ -688,6 +708,7 @@ F 4 "" H 4050 2550 60  0001 C CNN "Title"
 F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos" H 4050 2550 50  0001 C CNN "Desc"
 F 6 "A98062-ND " H 4050 2550 50  0001 C CNN "Digikey#"
 F 7 "Weco" H 4050 2550 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=A98062-ND%20" H 4050 2550 50  0001 C CNN "DigikeyPage"
 	1    4050 2550
 	1    0    0    1   
 $EndComp
@@ -705,6 +726,7 @@ F 4 "" H 4050 2150 60  0001 C CNN "Title"
 F 5 "Terminal Block - Header, Male Pins, Shrouded -5mm -2 pos" H 4050 2150 50  0001 C CNN "Desc"
 F 6 "A98062-ND " H 4050 2150 50  0001 C CNN "Digikey#"
 F 7 "Weco" H 4050 2150 50  0001 C CNN "Manf"
+F 8 "https://www.digikey.com/products/en?keywords=A98062-ND%20" H 4050 2150 50  0001 C CNN "DigikeyPage"
 	1    4050 2150
 	1    0    0    1   
 $EndComp
