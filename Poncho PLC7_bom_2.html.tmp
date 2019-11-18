@@ -5,17 +5,17 @@
 <body>
 <h2>KiBoM PCB Bill of Materials</h2>
 <table border="1">
-<tr><td>Source File</td><td>/home/agus/Documentos/cese 2019/DCI/Poncho Nuevo/Poncho PLC7/Poncho PLC7.sch</td></tr>
-<tr><td>BoM Date</td><td>lun 18 nov 2019 17:41:21 -03</td></tr>
+<tr><td>Source File</td><td>/home/agus/Documentos/BORRAR/Poncho PLC7/Poncho PLC7.sch</td></tr>
+<tr><td>BoM Date</td><td>mi 30 oct 2019 22:17:21 -03</td></tr>
 <tr><td>Schematic Version</td><td>2</td></tr>
 <tr><td>Schematic Date</td><td>2019-10-17</td></tr>
 <tr><td>PCB Variant</td><td>[u'default']</td></tr>
 <tr><td>KiCad Version</td><td>Eeschema 5.1.4-e60b266~84~ubuntu18.04.1</td></tr>
 <tr><td>Component Groups</td><td>19</td></tr>
-<tr><td>Component Count (per PCB)</td><td>102</td></tr>
-<tr><td>Fitted Components (per PCB)</td><td>102</td></tr>
+<tr><td>Component Count (per PCB)</td><td>86</td></tr>
+<tr><td>Fitted Components (per PCB)</td><td>86</td></tr>
 <tr><td>Number of PCBs</td><td>1</td></tr>
-<tr><td>Total Component Count<br>(for 1 PCBs)</td><td>102</td></tr>
+<tr><td>Total Component Count<br>(for 1 PCBs)</td><td>86</td></tr>
 </table>
 <br>
 <h2>Component Groups</h2>
@@ -67,10 +67,10 @@
 	<td align="center">3</td>
 	<td align="center" bgcolor=#E6F9FF>Red LED Indication - Discrete 2.1V 0603 (1608 Metric)</td>
 	<td align="center" bgcolor=#FFE6B3>LED</td>
-	<td align="center" bgcolor=#FFE6B3>D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16</td>
+	<td align="center" bgcolor=#FFE6B3>D1 D2 D3 D4 D5 D6 D7 D8</td>
 	<td align="center" bgcolor=#FFE6B3>LED red</td>
 	<td align="center" bgcolor=#FFE6B3>LED_0805_2012Metric</td>
-	<td align="center" bgcolor=#E6FFEE>16</td>
+	<td align="center" bgcolor=#E6FFEE>8</td>
 	<td align="center" bgcolor=#E6F9FF>1080-1583-2-ND</td>
 	<td align="center" bgcolor=#E6F9FF>Everlight</td>
 	<td align="center" bgcolor=#FFE6B3><a href="https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf">https://media.digikey.com/pdf/Data%20Sheets/Everlight%20PDFs/19-213USRC-S259-TR8.pdf</a></td>
@@ -210,10 +210,10 @@
 	<td align="center">14</td>
 	<td align="center" bgcolor=#E6F9FF>1/8W Chip Resistor 0805</td>
 	<td align="center" bgcolor=#FFE6B3>R</td>
-	<td align="center" bgcolor=#FFE6B3>R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R33 R34 R35 R36 R37 R38 R39 R40</td>
+	<td align="center" bgcolor=#FFE6B3>R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16</td>
 	<td align="center" bgcolor=#FFE6B3>330</td>
 	<td align="center" bgcolor=#FFE6B3>R_0805_2012Metric</td>
-	<td align="center" bgcolor=#E6FFEE>20</td>
+	<td align="center" bgcolor=#E6FFEE>12</td>
 	<td align="center" bgcolor=#E6F9FF>CR0805-JW-331ELFTR-ND</td>
 	<td align="center" bgcolor=#E6F9FF>Bourns</td>
 	<td align="center" bgcolor=#FFE6B3><a href="https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf">https://www.bourns.com/docs/Product-Datasheets/CHPREZTR.pdf</a></td>
